@@ -13,3 +13,5 @@ Price check rules:
 		       > Seel|.......|+100k 200k
     This allows to support a price placed by someone else,
     if more then one price is present the one with more + will be taken in consideration
+
+Test
