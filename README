@@ -1,0 +1,15 @@
+
+This space is dedicated to assign reasonable prices to different pokémons
+
+Price check rules:
+	If the pokemons have no price assigned you can just add one
+  
+	If is already a price assigned and you are not okay with it just add a new one separated by a space
+		Exemple: Seel|.......|200k
+		       > Seel|.......|100k 200k
+           
+	If is already a price assigned and you are oki with it just add a +before
+		Exemple: Seel|.......|100k 200k
+		       > Seel|.......|+100k 200k
+    This allows to support a price placed by someone else,
+    if more then one price is present the one with more + will be taken in consideration
