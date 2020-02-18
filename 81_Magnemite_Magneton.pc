@@ -1,0 +1,17 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Magnemite|Lvl  25|28|28|29|23|20|29|Ghost    |200k
+@ Shiny Magnemite|Lvl  26|29|31|22|25|24|30|Rock     |300k
+@ Shiny Magnemite|Lvl  25|21|28|29|23|26|21|Ghost    |200k
+@ Shiny Magnemite|Lvl  26|28|22|24|24|31|21|Water    |230k
+@ Shiny Magnemite|Lvl  24|20|23|25|24|25|24|Water    |230k
+@  Shiny Magneton|Lvl 100|26|28|23|26|22|30|Fighting |250k
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
