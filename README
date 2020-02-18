@@ -1,15 +1,34 @@
 
-This space is dedicated to assign reasonable prices to different pokémons
+This space is dedicated to assign reasonable prices to the different pokémons
 
 Price check rules:
-	If the pokemons have no price assigned you can just add one
-  
-	If is already a price assigned and you are not okay with it just add a new one separated by a space
-		Exemple: Seel|.......|200k
-		       > Seel|.......|100k 200k
+	1. If the pokemons have no price assigned you can just add one
+        
+	2. If is already a price assigned and you are not okay with it just add a new one before the already existing separated with /
+		Exemple: @       Caterpie|Lvl  15|25|25|28|20|27|27|Grass    |200m
+		       > @       Caterpie|Lvl  15|25|25|28|20|27|27|Grass    |100k / 200m
            
-	If is already a price assigned and you are oki with it just add a +before
-		Exemple: Seel|.......|100k 200k
-		       > Seel|.......|+100k 200k
-    This allows to support a price placed by someone else,
-    if more then one price is present the one with more + will be taken in consideration
+	3. If is already a price assigned and you are oki with it just add a +before
+		Exemple: @       Caterpie|Lvl  15|25|25|28|20|27|27|Grass    |100k / 200m
+		       > @       Caterpie|Lvl  15|25|25|28|20|27|27|Grass    |+100k / 200m
+           This allows to support a price placed by someone else,
+           if more then one price is present the one with more + will be taken in consideration
+           if there are several prices with the same number of + the leftmost will be taken into consideration
+	   
+        4. The hidden power must be taken into consideration if and only if it is beneficial for the pokémon in question
+           
+        5. If the pokémon has no value you can just remove the @ instead of putting a price 0
+           But that doesn't mean that cheap pokémons should be ignored
+
+Additional informations:
+        Pokemon have been divided into the following categories
+                Shiny 28+
+                Shiny
+                Non Shiny 28+
+                Non Shiny 20+
+                Non Shiny
+                
+        This allows to reduce the search field of the algorithm
+        and allows to achieve better results since we do not have an infinite number of data at our disposal.
+        
+        -> If you have any additional suggestion let me know
