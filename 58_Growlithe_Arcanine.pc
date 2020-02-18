@@ -1,0 +1,29 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Growlithe|Lvl  23|26|21|25|25|28|28|Bug      |2,5m / 13m
+@ Shiny Growlithe|Lvl  24|22|27|31|31|24|30|Bug      |3,5m / 15m
+@ Shiny Growlithe|Lvl  21|27|24|29|28|26|28|Flying   |3m
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Growlithe|Lvl  26|24|22|27|26|23|30|Fire     |300k
+
+Non Shiny
+@       Growlithe|Lvl  26|26|20|29|19|20|29|Ghost    |40k / 300k
+@       Growlithe|Lvl  25|22|23|18|29|11|31|Ice      |40k / 100k
+@       Growlithe|Lvl  25|10|25|25|28|25|27|Grass    |20k / 70k
+@       Growlithe|Lvl  23|29|22|15|10|31|27|Grass    |20k / 70k
+@       Growlithe|Lvl  26|25|29|31|21|11|25|Dark     |20k / 70k
+@       Growlithe|Lvl  26|23|27|31|17|28|30|Bug      |+200k
+@       Growlithe|Lvl  25|23|24|10| 5|31|30|Electric |20k / 75k
+@       Growlithe|Lvl  26|23|25|21|16|29|28|Water    |+150k
+@       Growlithe|Lvl  23|25|22|25|25|31|18|Psychic  |50k / 100k
+@       Growlithe|Lvl  26|28|26|21|24|13|29|Grass    |20k / 100k
+@       Growlithe|Lvl  25|27|20|20|28|11|27|Water    |20k / 80k
+@       Growlithe|Lvl  24|29|26|18|20|31|20|Steel    |20k / 80k
+@        Arcanine|Lvl 100|23|27|29|27|10|30|Bug      |40k / 100k
+@        Arcanine|Lvl 100|13|31|10|18|13|31|Grass    |70k / 150k
