@@ -13,3 +13,5 @@ Non Shiny
 @       Onix|Lvl  59|20|21|24|23|25|19|Ice      |150k
 @       Onix|Lvl  56|25|16|24|12|30|28|Fighting |150k
 @       Onix|Lvl  60|23|21|23|18|31|21|Electric |200k
+
+@       Steelix|Lvl 100|30|29|30| 7|25|31|Ice      |4m
