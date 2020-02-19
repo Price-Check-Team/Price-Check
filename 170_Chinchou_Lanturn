@@ -1,13 +1,22 @@
-Name|Lvl|HP|ATK|DEF|SP ATK|SP DEF|SPD|Price
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
-Shiny Chinchou|Lvl  29|26|30|20|29|21|25|1m
-Shiny Chinchou|Lvl  29|22|30|29|30|23|25|1.5m
-Shiny Chinchou|Lvl  29|29|27|21|23|31|21|650k
-Shiny Chinchou|Lvl  10|20|21|30|24|20|31|2m
-Shiny Chinchou|Lvl  11|24|31|30|29|20|26|600k
-Shiny Chinchou|Lvl  28|30|20|24|23|27|25|750k
-Shiny Chinchou|Lvl  28|24|26|23|26|29|20|750k
- Shiny Lanturn|Lvl  28|24|21|24|23|20|23|900k
- Shiny Lanturn|Lvl  29|26|27|20|21|26|28|900k
- Shiny Lanturn|Lvl  28|24|20|31|21|26|29|750k
- Shiny Lanturn|Lvl  29|22|31|31|26|27|29|2m
+Shiny 28+
+
+Shiny
+@ Shiny Chinchou|Lvl  29|26|30|20|29|21|25|Ice      |1m
+@ Shiny Chinchou|Lvl  29|22|30|29|30|23|25|Grass    |1.5m
+@ Shiny Chinchou|Lvl  29|29|27|21|23|31|21|Dark     |650k
+@ Shiny Chinchou|Lvl  10|20|21|30|24|20|31|Poison   |2m
+@ Shiny Chinchou|Lvl  11|24|31|30|29|20|26|Rock     |600k
+@ Shiny Chinchou|Lvl  28|30|20|24|23|27|25|Ice      |750k
+@ Shiny Chinchou|Lvl  28|24|26|23|26|29|20|Fire     |750k
+@  Shiny Lanturn|Lvl  28|24|21|24|23|20|23|Ghost    |900k
+@  Shiny Lanturn|Lvl  29|26|27|20|21|26|28|Rock     |900k
+@  Shiny Lanturn|Lvl  28|24|20|31|21|26|29|Ghost    |750k
+@  Shiny Lanturn|Lvl  29|22|31|31|26|27|29|Grass    |2m
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
