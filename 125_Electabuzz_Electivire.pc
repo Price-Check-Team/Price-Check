@@ -1,9 +1,19 @@
-      Name|Lvl    |HP|ATK|DEF|SPATK|SPDEF|SPD|Price
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
-Electabuzz|Lvl 100| 9 |16|31|17|12|24|250k/ 50k
-Electabuzz|lvl 100| 30 |12| 6| 1|30|22|500k/ 50k
-Electabuzz|Lvl  20| 28 |25| 6|30|11| 7|750k/ 20k
-Electabuzz|Lvl  26| 8 | 2| 3|28|29| 1|10k / 1k
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Electabuzz|Lvl 100| 9|16|31|17|12|24|Bug      |50k / 250k
+@       Electabuzz|Lvl 100|30|12| 6| 1|30|22|Ground   |50k / 500k
+@       Electabuzz|Lvl  20|28|25| 6|30|11| 7|Grass    |20k / 750k
+@       Electabuzz|Lvl  26| 8| 2| 3|28|29| 1|Grass    |1k / 10k
+
 Electabuzz|Lvl  26| 1 | 5|25|10| 0|18| 1k
 Electabuzz|Lvl  25| 6 | 0|29|25|14|17| 10k
 Electabuzz|Lvl  26| 5 |23|19|26|27| 4| 10k
