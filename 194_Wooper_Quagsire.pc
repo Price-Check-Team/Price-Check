@@ -1,0 +1,32 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@   Shiny Wooper|Lvl  48|20|21|22|30|29|20|Fire     |200k
+@   Shiny Wooper|Lvl  46|23|29|22|31|28|30|Rock     |300k
+@   Shiny Wooper|Lvl  49|27|26|23|31|26|31|Ghost    |350k
+@   Shiny Wooper|Lvl   7|27|25|25|27|20|29|Steel    |150k
+@   Shiny Wooper|Lvl   8|28|31|20|30|28|27|Poison   |250k
+@   Shiny Wooper|Lvl  52|23|31|24|31|23|23|Dragon   |75k
+@   Shiny Wooper|Lvl  56|23|20|31|27|28|27|Ghost    |200k
+@   Shiny Wooper|Lvl  56|28|29|29|22|22|21|Ground   |200k
+@   Shiny Wooper|Lvl  54|25|29|31|24|24|30|Flying   |150k
+@   Shiny Wooper|Lvl  54|26|21|20|31|24|21|Ghost    |150k
+@   Shiny Wooper|Lvl  54|24|26|25|27|29|21|Dragon   |250k
+@   Shiny Wooper|Lvl  54|24|26|25|27|29|21|Dragon   |100k
+@   Shiny Wooper|Lvl  54|26|25|27|20|25|30|Water    |200k
+@   Shiny Wooper|Lvl  56|29|30|23|23|25|29|Dragon   |200k
+@   Shiny Wooper|Lvl  54|24|28|25|25|22|23|Ghost    |100k
+@   Shiny Wooper|Lvl  52|23|24|31|23|20|25|Ghost    |100k
+@   Shiny Wooper|Lvl  53|31|21|22|22|31|27|Grass    |250k
+@ Shiny Quagsire|Lvl  56|22|26|23|23|22|21|Ghost    |250k
+@ Shiny Quagsire|Lvl  55|22|22|28|29|24|20|Ground   |150k
+@ Shiny Quagsire|Lvl  49|30|26|29|24|20|25|Poison   |200k
+@ Shiny Quagsire|Lvl  57|31|20|23|29|26|20|Bug      |250k
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
