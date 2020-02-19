@@ -1,0 +1,22 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Murkrow|Lvl   1|27|31|28|22|20|23|Poison   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Murkrow|Lvl  10|22|27|23|21|31|24|Psychic  |2m
+@       Murkrow|Lvl  10|22|27|23|21|31|24|Psychic  |
+
+Non Shiny
+@       Murkrow|Lvl   7|26|31|11| 7|31|30|Psychic  |2m
+@       Murkrow|Lvl   8| 3|27| 3|24|19|31|Electric |400k
+@       Murkrow|Lvl   6|27|17|17|25|11|24|Ice      |80k
+@       Murkrow|Lvl  20|28|28|13|28|24|13|Poison   |80k
+@       Murkrow|Lvl   7|21|24|23|17|17|19|Dragon   |50k
+@       Murkrow|Lvl   9|12|21|30|10|24|31|Poison   |1m
+@       Murkrow|Lvl   8|28|30| 8|15|16|28|Ground   |50k
+@       Murkrow|Lvl  56|31|21|18| 3|18|30|Rock     |100k
