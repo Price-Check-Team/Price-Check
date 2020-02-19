@@ -1,0 +1,15 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Pinsir|Lvl 100|22|24|27| 4|16|30|Fighting |400k
+@       Pinsir|Lvl  17|31|31|26|31|12|12|Rock     |100k
+@       Pinsir|Lvl 100|22|12|16|18|19|30|Steel    |75k
+@       Pinsir|Lvl  29|13|21|20|24|18|24|Fighting |100k
