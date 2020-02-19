@@ -1,0 +1,19 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Mantine|Lvl  28|24|26|29|31|20|29|Ghost    |
+
+Non Shiny
+@       Mantine|Lvl  28|15|23|12|26|17|23|Grass    |100k
+@       Mantine|Lvl  29|22|23|25|19| 3|28|Psychic  |40k
+@       Mantine|Lvl  28|15|25|16|30|22|21|Poison   |100k
+@       Mantine|Lvl  29|19|22|27|14|31|18|Fire     |40k
+@       Mantine|Lvl  29|16|28|29|26|25| 1|Grass    |50k
+@       Mantine|Lvl  29|15|10|29|25|21|28|Psychic  |200k
+@       Mantine|Lvl  28|28|10|31|26|23|15|Grass    |800k
