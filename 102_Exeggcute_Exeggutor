@@ -1,7 +1,16 @@
-Name|Lvl|HP|ATK|DEF|SP ATK|SP DEF|SPD|Price
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
-Exeggcute|Lvl  57|26|10|22|18|29|17|50k
-Exeggcute|Lvl  57|16|20|12|24|18|29|50k
-Exeggcute|Lvl  68|20|14|11|28|13|26|70k
-Exeggcute|Lvl  57|21|13|22|24|20|17|150k
-Exeggutor|Lvl 100|24|26|31|27|15|16|15k
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Exeggcute|Lvl  57|26|10|22|18|29|17|Water    |50k
+@       Exeggcute|Lvl  57|16|20|12|24|18|29|Flying   |50k
+@       Exeggcute|Lvl  68|20|14|11|28|13|26|Fire     |70k
+@       Exeggcute|Lvl  57|21|13|22|24|20|17|Poison   |150k
+@       Exeggutor|Lvl 100|24|26|31|27|15|16|Psychic  |15k
