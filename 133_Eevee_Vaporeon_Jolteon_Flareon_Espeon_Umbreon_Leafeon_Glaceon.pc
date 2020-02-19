@@ -1,0 +1,17 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@         Eevee|Lvl  29|16| 9| 5|29|29|24|Psychic  |500k
+@         Eevee|Lvl  29|16|29|11|24| 8|16|Flying   |400k
+@         Eevee|Lvl  61| 9|16|12|15|18|14|Rock     |400k
+@         Eevee|Lvl   9|14| 7| 9| 2| 8|17|Ground   |100k
+@         Eevee|Lvl  10|12|15| 2|23| 6|10|Rock     |200k
+@       Flareon|Lvl  28|23|29|16|11| 5|10|Psychic  |750k
