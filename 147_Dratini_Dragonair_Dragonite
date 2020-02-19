@@ -1,15 +1,24 @@
-Name|HP|ATK|DEF|SP ATK|SP DEF|SPD|Price
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
-Dragonite|17|10| 5|14|26|27|1.5m
-Dragonite| 9| 2|26|24|30|11|300k
-Dragonite|16|24|24| 5|28|13|1.3m
-  Dratini| 4|11|18|21|15| 1|100k
-  Dratini| 9|13|10|28|26|30|250k
-  Dratini| 7| 3|10|12|15|10|100k
-  Dratini|13|26| 3| 6|31|12|100k
-  Dratini|16| 8|10|30|21| 3|100k
-  Dratini|10|12| 1|31| 8|28|100k
-  Dratini| 1|20| 2|25|29|24|250k
-  Dratini|10|10| 4|21| 1|31|400k
-  Dratini|23|21| 6|24| 8|30|800k
-  Dratini|11| 6|13| 1| 5| 0|50k
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@         Dratini|Lvl  27| 4|11|18|21|15| 1|Ice      |100k
+@         Dratini|Lvl  28| 9|13|10|28|26|30|Fighting |250k
+@         Dratini|Lvl   9| 7| 3|10|12|15|10|Fire     |100k
+@         Dratini|Lvl   9|13|26| 3| 6|31|12|Fire     |100k
+@         Dratini|Lvl  10|16| 8|10|30|21| 3|Water    |100k
+@         Dratini|Lvl   9|10|12| 1|31| 8|28|Rock     |100k
+@         Dratini|Lvl  28| 1|20| 2|25|29|24|Electric |250k
+@         Dratini|Lvl  27|10|10| 4|21| 1|31|Ice      |400k
+@         Dratini|Lvl  31|23|21| 6|24| 8|30|Fighting |800k
+@         Dratini|Lvl  31|11| 6|13| 1| 5| 0|Psychic  |50k
+@       Dragonite|Lvl 100|17|10| 5|14|26|27|Ground   |1.5m
+@       Dragonite|Lvl  82| 9| 2|26|24|30|11|Poison   |300k
+@       Dragonite|Lvl 100|16|24|24| 5|28|13|Bug      |1.3m
