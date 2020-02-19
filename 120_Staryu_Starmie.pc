@@ -1,0 +1,39 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Staryu|Lvl  28|26|31|24|21|21|24|Electric |90m
+@ Shiny Staryu|Lvl  29|28|22|31|24|21|22|Fire     |85m
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Staryu|Lvl  29|23|29|26|27|29|24|Psychic  |2m
+
+Non Shiny
+@       Staryu|Lvl  28|10|30|29|23|22|23|Ghost    |50k / 200k
+@       Staryu|Lvl 100|28|11|28|21|18|31|Ghost    |700k / 1m
+@       Staryu|Lvl  58|18|24|13|22|28|31|Poison   |300k / 1m
+@       Staryu|Lvl  60|29|20|18|25|12|28|Rock     |150k / 400k
+@       Staryu|Lvl  66| 9|24|29|25|31|31|Dragon   |100k / 400k
+@       Staryu|Lvl  29| 4|14|18|24|19|31|Water    |+50k
+@       Staryu|Lvl  29|16|19|31|23|27|27|Dragon   |+20k
+@       Staryu|Lvl  29|23|25|17|19|21|27|Dark     |+10k
+@       Staryu|Lvl  28|23|22|26|23|25|17|Ice      |+10k
+@       Staryu|Lvl  29| 9|31|28|30|21|27|Grass    |+50k
+@       Staryu|Lvl  29|19|28|21|18|30|28|Flying   |+25k
+@       Staryu|Lvl  28|25| 7|20|27|27|27|Dragon   |1.5m / 4m
+@       Staryu|Lvl  29|11|23|18|11|25|31|Dragon   |+40k
+@       Staryu|Lvl 100|16|26|15|11|22|31|Ghost    |50k / 100k
+@       Staryu|Lvl 100|31|26|31|29| 9|22|Psychic  |40k / 200k
+@       Staryu|Lvl 100|17|26|31|29| 9|22|Psychic  |40k / 250k
+@       Staryu|Lvl  29|23|28| 6|27|26|22|Rock     |40k / 100k
+@       Staryu|Lvl 100|12|16|21|30|14|30|Fighting |50k / 150k
+@       Staryu|Lvl  28|30|13|15|24| 7|25|Grass    |20k / 50k
+@       Staryu|Lvl  29|24|28|19|20|26|20|Fighting |20k / 100k
+@       Staryu|Lvl 100|31|20|12|16|19|29|Water    |10k / 50k
+@       Staryu|Lvl  58|19|21|15|20| 3|31|Electric |50k / 200k
+@       Staryu|Lvl 100|10|30|29|23|22|23|Ghost    |50 / 300k
+@       Staryu|Lvl  29|11|23|18|11|25|31|Dragon   |+50k
+@       Staryu|Lvl 100| 3|28|26|12|23|31|Water    |+50k
