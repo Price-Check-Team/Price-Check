@@ -1,0 +1,16 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Rhyhorn|Lvl  29|28|28|30|12|16| 5|Flying   |+50k
+@       Rhyhorn|Lvl  19|27|20|21|13|26|13|Ghost    |30k / 300k
+@       Rhyhorn|Lvl  28|13|20|26|23|23|20|Electric |10k / 100k
+@       Rhyhorn|Lvl  31|25|22| 4|15|30|28|Rock     |+50k
+@       Rhyhorn|Lvl  30|25|20| 4|20|30|23|Poison   |120k / 50k
