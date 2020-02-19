@@ -1,0 +1,40 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Horsea|Lvl  29|25|23|31|20|31|31|Electric |1.5m
+@ Shiny Horsea|Lvl  29|21|31|26|24|25|23|Grass    |500k
+@ Shiny Horsea|Lvl  28|24|28|20|24|20|21|Flying   |200k
+@ Shiny Horsea|Lvl  28|21|20|28|30|23|27|Water    |400k
+@ Shiny Horsea|Lvl  28|25|25|26|23|29|20|Psychic  |350k
+@ Shiny Horsea|Lvl  29|29|22|20|26|20|22|Fighting |300k
+@ Shiny Horsea|Lvl  29|28|22|27|31|20|21|Ghost    |350k
+@ Shiny Horsea|Lvl  70|20|29|29|26|22|28|Flying   |600k
+@ Shiny Horsea|Lvl  68|21|25|31|24|20|20|Flying   |400k
+@ Shiny Horsea|Lvl  29|26|30|31|26|28|20|Fighting |650k
+@ Shiny Horsea|Lvl  29|24|26|26|21|27|28|Electric |600k
+@ Shiny Horsea|Lvl  70|21|30|27|30|30|22|Flying   |700k
+@ Shiny Horsea|Lvl  29|24|20|25|23|29|25|Dragon   |400k
+@ Shiny Horsea|Lvl  29|26|28|20|20|28|20|Fighting |500k
+@ Shiny Horsea|Lvl  28|30|24|28|20|29|25|Water    |500k
+@ Shiny Horsea|Lvl  29|24|26|28|26|22|24|Fighting |400k
+@ Shiny Horsea|Lvl  29|27|24|30|23|28|22|Rock     |400k
+@ Shiny Horsea|Lvl  29|20|30|23|29|30|24|Rock     |500k
+@ Shiny Horsea|Lvl  28|25|22|26|25|24|26|Rock     |400k
+@ Shiny Horsea|Lvl  29|27|29|31|25|24|21|Steel    |400k
+@ Shiny Seadra|Lvl  28|30|22|22|25|28|23|Bug      |350k
+@ Shiny Seadra|Lvl  29|28|23|31|26|30|29|Ground   |600k
+@ Shiny Seadra|Lvl  82|25|28|22|21|29|28|Electric |600k
+@ Shiny Seadra|Lvl  28|20|30|28|29|24|25|Bug      |700k
+@ Shiny Seadra|Lvl  29|27|31|30|26|24|20|Fighting |500k
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Horsea|Lvl  28|30|24|23|21|30|26|Rock     |
+@       Horsea|Lvl  28|26|24|21|31|27|26|Psychic  |
+@       Horsea|Lvl  29|27|25|23|28|25|22|Water    |
+
+Non Shiny
+@       Horsea|Lvl  28|20|13|28|27|22|27|Ghost    |750k
