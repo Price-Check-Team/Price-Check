@@ -2,11 +2,11 @@ Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
 
-Shiny |150m|
+Shiny
 
 Non Shiny 28+
 
-Non Shiny 20+|4m|
+Non Shiny 20+
 
 Non Shiny
 @       Pinsir|Lvl 100|22|24|27| 4|16|30|Fighting |500K / 400k
