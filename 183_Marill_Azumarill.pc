@@ -7,9 +7,36 @@ Shiny
 Non Shiny 28+
 
 Non Shiny 20+
+@       Marill|Lvl  33|30|27|30|28|29|27|Grass    |
 
 Non Shiny
-@       Marill|Lvl  15|28| 8|28|31|25|27|Ice      |+400k
-Marill|Lvl  33|30|27|30|28|29|27|5m
-Marill|Lvl  33|29|24|16|26|26|31|500k
-Marill|Lvl  16|30|15|12|31|31|31|300k
+@          Marill|Lvl  15| 8| 8| 1| 9| 1| 3|Dragon   |
+@          Marill|Lvl  33|29|24|16|26|26|31|Poison   |
+@          Marill|Lvl  16|30|15|12|31|31|31|Ice      |
+@          Marill|Lvl  34|27|31|17|14|23|28|Water    |
+@          Marill|Lvl  33|27|20|28|14|29|30|Steel    |
+@          Marill|Lvl  32|30|26|14|23|20|29|Bug      |
+@          Marill|Lvl  26|28|29|29| 8|12|31|Ground   |
+@          Marill|Lvl  34|23|24|24|18|21|31|Water    |
+@          Marill|Lvl  32|25|21|28|20|10|29|Poison   |
+@          Marill|Lvl  32|12|22|26|29|24|25|Bug      |
+@          Marill|Lvl  16|18|31|19|13|20|17|Steel    |
+@          Marill|Lvl  15|26|15|13|17|23|19|Dragon   |
+@          Marill|Lvl  15|18|16|22|26|25|21|Water    |
+@          Marill|Lvl  16|24|12|22|18|24|22|Fighting |
+@          Marill|Lvl  14|20|15|31|16|16|30|Flying   |
+@          Marill|Lvl  16|23|17|20|18|20|31|Poison   |
+@          Marill|Lvl  16|16|12|26|17|30|21|Bug      |
+@          Marill|Lvl  15|11|24|20|29|12|14|Rock     |
+@          Marill|Lvl  15|21|29|15|11|22|15|Steel    |
+@          Marill|Lvl  16|20|10|20|13|31|13|Ice      |
+@       Azumarill|Lvl 100|22|28|23|18|24|29|Poison   |
+@       Azumarill|Lvl  19|26|17|31|20|22|29|Ground   |
+@       Azumarill|Lvl 100|24|25|20|23|18|24|Rock     |
+
+@          Marill|Lvl  15|28| 8|28|31|25|27|Ice      |+400k
+@          Marill|Lvl  33|30|27|30|28|29|27|Grass    |5m
+@          Marill|Lvl  33|29|24|16|26|26|31|Poison   |500k
+@          Marill|Lvl  16|30|15|12|31|31|31|Ice      |300k
+
+Epic Fail
