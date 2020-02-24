@@ -1,11 +1,17 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny  Gastly|Lvl  29|30|30|28|28|28|30|Fighting |
+@ Shiny  Gastly|Lvl  26|28|30|29|31|28|28|Rock     |
+@ Shiny Haunter|Lvl  95|31|30|28|29|29|28|Electric |
+@ Shiny  Gengar|Lvl 100|30|30|28|28|29|28|Steel    |
 
 Shiny
-@ Shiny Gastly|Lvl  26|21|20|31|25|24|26|Bug      |1.5m
-@ Shiny Gastly|Lvl   9|30|23|22|23|25|22|Electric |1.4m
-@ Shiny Gastly|Lvl   8|27|25|25|24|21|29|Electric |1.5m
+@ Shiny Haunter|Lvl  23|31|26|29|20|31|31|Grass    |
+
+@ Shiny  Gastly|Lvl  26|21|20|31|25|24|26|Bug      |1.5m
+@ Shiny  Gastly|Lvl   9|30|23|22|23|25|22|Electric |1.4m
+@ Shiny  Gastly|Lvl   8|27|25|25|24|21|29|Electric |1.5m
 
 Non Shiny 28+
 
@@ -16,5 +22,8 @@ Non Shiny 20+
 @        Gengar|Lvl 100|28|21|30|28|29|25|Grass    |
 
 Non Shiny
+@       Gastly|Lvl  26|17|30|29|24|22|29|Ground   |
+@       Gengar|Lvl 100|27|11|25|27|30|29|Steel    |
+
 @       Gastly|Lvl  25|23|20| 1|30|10|31|Ground   |50k
 @       Gastly|Lvl  27|26|10|25|20|13|31|Grass    |50k
