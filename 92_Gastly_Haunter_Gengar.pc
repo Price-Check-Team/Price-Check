@@ -27,3 +27,5 @@ Non Shiny
 
 @       Gastly|Lvl  25|23|20| 1|30|10|31|Ground   |50k
 @       Gastly|Lvl  27|26|10|25|20|13|31|Grass    |50k
+
+Epic Fail
