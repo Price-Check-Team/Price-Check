@@ -3,14 +3,38 @@ Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 Shiny 28+
 
 Shiny
+@ Shiny Rhyhorn|Lvl  23|27|26|24|22|25|27|Water    |
 
 Non Shiny 28+
 
 Non Shiny 20+
+@       Rhyhorn|Lvl  27|31|31|31|25|31|29|Dark     |
+@       Rhyhorn|Lvl  30|28|20|23|20|22|30|Fighting |
 
 Non Shiny
+@       Rhyhorn|Lvl  30| 9| 7| 0| 9| 9| 1|Dragon   |
+@       Rhyhorn|Lvl  27|30|26|19|31|25|30|Psychic  |
+@       Rhyhorn|Lvl  27|31|29|31|30|21|13|Electric |
+@       Rhyhorn|Lvl  29|27|31|22|24|13|10|Fire     |
+@       Rhyhorn|Lvl  28|30|15|20|24|22|12|Fighting |
+@       Rhyhorn|Lvl  29|26|31|26| 5|27|21|Ice      |
+@       Rhyhorn|Lvl  30|24|28|29|12|23|16|Fire     |
+@       Rhyhorn|Lvl  30|23|12|31|27|10|10|Bug      |
+@       Rhyhorn|Lvl  28|29|26|14|24|12|22|Fighting |
+@       Rhyhorn|Lvl  31|24|23|24|11|29|11|Ice      |
+@       Rhyhorn|Lvl  27|31|30|20|25| 2|18|Rock     |
+@       Rhyhorn|Lvl  29|23|29|20|28|27| 1|Grass    |
+@       Rhyhorn|Lvl  28|31|31|27| 1|19| 2|Ice      |
+@       Rhyhorn|Lvl  30|27|25|19|24|28| 2|Flying   |
+@       Rhyhorn|Lvl  27|29|20|24|24| 5|15|Water    |
+@       Rhyhorn|Lvl  29|26|27|30|31|21| 4|Electric |
+@       Rhyhorn|Lvl  29|25|29|21| 1|24| 5|Steel    |
+@        Rhydon|Lvl 100|29|21|30| 7|29|28|Psychic  |
+
 @       Rhyhorn|Lvl  29|28|28|30|12|16| 5|Flying   |+50k
 @       Rhyhorn|Lvl  19|27|20|21|13|26|13|Ghost    |30k / 300k
 @       Rhyhorn|Lvl  28|13|20|26|23|23|20|Electric |10k / 100k
 @       Rhyhorn|Lvl  31|25|22| 4|15|30|28|Rock     |+50k
 @       Rhyhorn|Lvl  30|25|20| 4|20|30|23|Poison   |120k / 50k
+
+Epic Fail
