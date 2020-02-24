@@ -1,8 +1,24 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny Magneton|Lvl 100|28|28|30|28|31|30|Steel    |
 
 Shiny
+@ Shiny Magnemite|Lvl  26|20|22|27|28|29|30|Fire     |
+@ Shiny Magnemite|Lvl  24|23|31|29|29|26|31|Steel    |
+@ Shiny Magnemite|Lvl  25|20|28|30|22|29|25|Water    |
+@ Shiny Magnemite|Lvl  26|29|23|25|30|25|20|Water    |
+@ Shiny Magnemite|Lvl  26|24|31|25|21|29|25|Dragon   |
+@ Shiny Magnemite|Lvl  26|27|31|24|22|20|23|Poison   |
+@ Shiny Magnemite|Lvl  24|27|29|21|23|23|21|Dark     |
+@ Shiny Magnemite|Lvl  24|25|22|27|22|21|29|Grass    |
+@ Shiny Magnemite|Lvl  24|21|22|29|23|29|25|Dragon   |
+@ Shiny Magnemite|Lvl  25|23|22|29|29|30|28|Bug      |
+@ Shiny Magnemite|Lvl  26|21|27|28|20|24|27|Poison   |
+@ Shiny Magnemite|Lvl  25|25|29|30|22|30|25|Poison   |
+@ Shiny Magnemite|Lvl  24|23|29|25|25|28|25|Steel    |
+@ Shiny  Magneton|Lvl  41|28|20|28|21|24|28|Ground   |
+
 @ Shiny Magnemite|Lvl  25|28|28|29|23|20|29|Ghost    |200k
 @ Shiny Magnemite|Lvl  26|29|31|22|25|24|30|Rock     |300k
 @ Shiny Magnemite|Lvl  25|21|28|29|23|26|21|Ghost    |200k
@@ -15,3 +31,6 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Magnemite|Lvl  27|13|18|28|27|24|25|Bug      |
+
+Epic Fail
