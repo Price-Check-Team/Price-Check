@@ -11,5 +11,25 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Skarmory|Lvl   1|29|29|28|15|19|21|Dragon   |
+@       Skarmory|Lvl   1|30|19|25|24|15|19|Grass    |
+@       Skarmory|Lvl   1|30|23|22|17|27|12|Electric |
+@       Skarmory|Lvl   1|18|23|16|30|14|29|Poison   |
+@       Skarmory|Lvl   1|25|17|20|22|31|13|Grass    |
+@       Skarmory|Lvl 100|21|29|28|24|22|12|Fighting |
+@       Skarmory|Lvl 100|15|18|17|19|22|31|Ghost    |
+@       Skarmory|Lvl   1| 6|26|26|22|30|23|Flying   |
+@       Skarmory|Lvl   1|22|31|28|31| 7|26|Electric |
+@       Skarmory|Lvl  28|30|24|21|15|20|12|Rock     |
+@       Skarmory|Lvl   1|17|30|20|25|13|13|Ice      |
+@       Skarmory|Lvl   1|23|17|26|17|11|20|Psychic  |
+@       Skarmory|Lvl   1|14|20|24|24|10|31|Flying   |
+@       Skarmory|Lvl   1|22|25|12|24|19|20|Fire     |
+@       Skarmory|Lvl   1|24|29|12|12|26|19|Poison   |
+@       Skarmory|Lvl   1|17|27|21|29|13|21|Dark     |
+@       Skarmory|Lvl   1|15|22|22|22|10|23|Poison   |
+
 @       Skarmory|Lvl   1|19|26|31| 1|22|23|Ghost    |+250k
 @       Skarmory|Lvl   1|22|31|28|31| 7|26|Electric |100K/400k
+
+Epic Fail
