@@ -9,19 +9,21 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Electabuzz|Lvl 100|28|25| 6|30|11| 7|Grass    |
+@       Electabuzz|Lvl  26|20|10|15|11|14|24|Rock     |
+
 @       Electabuzz|Lvl 100| 9|16|31|17|12|24|Bug      |50k / 250k
 @       Electabuzz|Lvl 100|30|12| 6| 1|30|22|Ground   |50k / 500k
 @       Electabuzz|Lvl  20|28|25| 6|30|11| 7|Grass    |20k / 750k
 @       Electabuzz|Lvl  26| 8| 2| 3|28|29| 1|Grass    |1k / 10k
 
-Electabuzz|Lvl  26| 1 | 5|25|10| 0|18| 1k
-Electabuzz|Lvl  25| 6 | 0|29|25|14|17| 10k
-Electabuzz|Lvl  26| 5 |23|19|26|27| 4| 10k
-Electabuzz|Lvl  26| 17 | 2|27|26|16|26| 300k
-Electabuzz|Lvl  25| 23 | 6| 5|25|23|22| 100k
-Electabuzz|Lvl  26| 30 |17|19|18|11|25| 100k
-Electabuzz|Lvl  26| 27 |21|23| 3|29|30| 25m
-Electabuzz|Lvl 100| 30 |10| 7|27|20|23| 100k
-Electabuzz|Lvl 100| 8 |15|16|28|26|15| 10k
+@       Electabuzz|Lvl  26|30|17|19|18|11|25|Grass    |100k
+@       Electabuzz|Lvl  26|27|21|23| 3|29|30|Ice      |25m
+@       Electabuzz|Lvl 100| 8|15|16|28|26|15|Poison   |10k
+@       Electabuzz|Lvl 100|30|10| 7|27|20|23|Ghost    |100k
+@       Electabuzz|Lvl  25| 6| 0|29|25|14|17|Ghost    |10k
+@       Electabuzz|Lvl  26| 5|23|19|26|27| 4|Water    |10k
+@       Electabuzz|Lvl  26|17| 2|27|26|16|26|Flying   |300k
+@       Electabuzz|Lvl  25|23| 6| 5|25|23|22|Psychic  |100k
 
-
+Epic Fail
