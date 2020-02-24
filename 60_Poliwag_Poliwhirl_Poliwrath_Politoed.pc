@@ -1,15 +1,24 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny   Poliwag|Lvl   7|31|29|28|28|30|28|Fighting |
+@ Shiny   Poliwag|Lvl  54|30|30|29|28|30|29|Poison   |
+@ Shiny Poliwhirl|Lvl  77|29|29|28|30|30|28|Fighting |
 
 Shiny
-@ Shiny Poliwag|Lvl  15|29|28|23|26|22|22|Flying   |150k
-@ Shiny Poliwag|Lvl  50|27|23|28|21|25|30|Psychic  |250k
-@ Shiny Poliwag|Lvl  11|29|29|24|21|20|20|Rock     |125k
-@ Shiny Poliwag|Lvl  50|29|22|25|26|29|21|Grass    |125k
-@ Shiny Poliwag|Lvl  52|30|29|24|26|29|29|Grass    |250k
-@ Shiny Poliwag|Lvl  52|26|31|29|21|30|26|Bug      |150k
-@ Shiny Poliwag|Lvl  31|30|31|29|22|25|21|Grass    |100k
+@ Shiny   Poliwag|Lvl  38|27|28|25|26|30|29|Ground   |
+@ Shiny   Poliwag|Lvl  39|29|30|29|20|25|26|Fire     |
+@ Shiny   Poliwag|Lvl  39|24|20|25|29|20|28|Rock     |
+@ Shiny   Poliwag|Lvl   8|24|23|25|25|20|30|Bug      |
+@ Shiny Poliwhirl|Lvl  59|28|21|22|23|22|26|Rock     |
+
+@ Shiny   Poliwag|Lvl  15|29|28|23|26|22|22|Flying   |150k
+@ Shiny   Poliwag|Lvl  50|27|23|28|21|25|30|Psychic  |250k
+@ Shiny   Poliwag|Lvl  11|29|29|24|21|20|20|Rock     |125k
+@ Shiny   Poliwag|Lvl  50|29|22|25|26|29|21|Grass    |125k
+@ Shiny   Poliwag|Lvl  52|30|29|24|26|29|29|Grass    |250k
+@ Shiny   Poliwag|Lvl  52|26|31|29|21|30|26|Bug      |150k
+@ Shiny   Poliwag|Lvl  31|30|31|29|22|25|21|Grass    |100k
 
 Non Shiny 28+
 
@@ -17,3 +26,5 @@ Non Shiny 20+
 @       Poliwag|Lvl  49|23|26|26|26|29|28|Steel    |
 
 Non Shiny
+
+Epic Fail
