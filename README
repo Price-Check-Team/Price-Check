@@ -3,6 +3,8 @@ This space is dedicated to assign reasonable prices to the different pokémons
 
 Price check rules:
 	1. If the pokemons have no price assigned you can just add one
+           The pokemon's level have no influence on the price
+           (even if the pokemon is 100 it have to be priced as it was low level no DC)
         
 	2. If is already a price assigned and you are not okay with it just add a new one before the already existing separated with /
 		Exemple: @       Caterpie|Lvl  15|25|25|28|20|27|27|Grass    |200m
@@ -16,6 +18,7 @@ Price check rules:
            if there are several prices with the same number of + the leftmost will be taken into consideration
 	   
         4. The hidden power must be taken into consideration if and only if it is beneficial for the pokémon in question
+           (Add * after the hidden power to show that it is taken in consideration while pricing)
            
         5. If the pokémon has no value you can just remove the @ instead of putting a price 0
            But that doesn't mean that cheap pokémons should be ignored
@@ -27,6 +30,7 @@ Additional informations:
                 Non Shiny 28+
                 Non Shiny 20+
                 Non Shiny
+                Epic Fail
                 
         This allows to reduce the search field of the algorithm
         and allows to achieve better results since we do not have an infinite number of data at our disposal.
