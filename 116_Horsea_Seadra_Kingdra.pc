@@ -1,8 +1,20 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny Horsea|Lvl  20|31|30|28|30|28|28|Fighting |
+@ Shiny Horsea|Lvl  23|28|31|29|29|31|31|Dragon   |
 
 Shiny
+@ Shiny Horsea|Lvl  28|25|30|25|25|27|31|Dragon   |
+@ Shiny Horsea|Lvl  29|25|24|22|22|30|31|Poison   |
+@ Shiny Horsea|Lvl  29|22|24|28|21|30|31|Bug      |
+@ Shiny Horsea|Lvl  28|30|30|20|24|27|31|Water    |
+@ Shiny Horsea|Lvl  29|20|21|20|24|22|30|Fighting |
+@ Shiny Horsea|Lvl  26|24|21|28|28|20|26|Fighting |
+@ Shiny Seadra|Lvl  28|26|21|26|30|25|31|Grass    |
+@ Shiny Seadra|Lvl  29|29|21|22|31|23|31|Dragon   |
+@ Shiny Seadra|Lvl  28|20|26|24|21|24|31|Bug      |
+
 @ Shiny Horsea|Lvl  29|25|23|31|20|31|31|Electric |1.5m
 @ Shiny Horsea|Lvl  29|21|31|26|24|25|23|Grass    |500k
 @ Shiny Horsea|Lvl  28|24|28|20|24|20|21|Flying   |200k
@@ -38,3 +50,5 @@ Non Shiny 20+
 
 Non Shiny
 @       Horsea|Lvl  28|20|13|28|27|22|27|Ghost    |750k
+
+Epic Fail
