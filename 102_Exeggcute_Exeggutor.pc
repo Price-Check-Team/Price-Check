@@ -3,14 +3,39 @@ Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 Shiny 28+
 
 Shiny
+@ Shiny Exeggcute|Lvl  27|20|23|28|21|30|27|Ghost    |
 
 Non Shiny 28+
 
 Non Shiny 20+
 
 Non Shiny
+@       Exeggcute|Lvl  27|29|29|31|10|26|26|Flying   |
+@       Exeggcute|Lvl  27|31|27|25|22|30|15|Ground   |
+@       Exeggcute|Lvl  29|16|28|30|24|30|22|Fighting |
+@       Exeggcute|Lvl  27|27| 1|29|29|22|27|Steel    |
+@       Exeggcute|Lvl  28|21|21|25|22|15| 1|Electric |
+@       Exeggcute|Lvl  29|24|17|21|31| 9|23|Dragon   |
+@       Exeggcute|Lvl  29|22|15|18|29|23|22|Electric |
+@       Exeggcute|Lvl  27|25|21|15|28|29|14|Water    |
+@       Exeggcute|Lvl  31|21|17|21|20|21|31|Electric |
+@       Exeggcute|Lvl  27|19|23|16|25|26|31|Ghost    |
+@       Exeggcute|Lvl  27|29|24|13|14|20|30|Flying   |
+@       Exeggcute|Lvl  31|21|24|26|17|27|15|Ice      |
+@       Exeggcute|Lvl  31|25|23|16|27|20|16|Rock     |
+@       Exeggcute|Lvl  28|23|31|31|16|15|22|Water    |
+@       Exeggcute|Lvl  30|20|25|12|29|24|26|Rock     |
+@       Exeggcute|Lvl  30|16|17|16|25|19|31|Ice      |
+@       Exeggcute|Lvl  29|26|15|18|22|20|10|Fighting |
+@       Exeggcute|Lvl  30|17|26|24|14|26|28|Fighting |
+@       Exeggcute|Lvl  28|11|24|24|25|24|16|Rock     |
+@       Exeggcute|Lvl  30|29|28|27| 4|21|22|Fire     |
+@       Exeggutor|Lvl 100|21| 5|20|28|22|26|Fighting |
+
 @       Exeggcute|Lvl  57|26|10|22|18|29|17|Water    |50k
 @       Exeggcute|Lvl  57|16|20|12|24|18|29|Flying   |50k
 @       Exeggcute|Lvl  68|20|14|11|28|13|26|Fire     |70k
 @       Exeggcute|Lvl  57|21|13|22|24|20|17|Poison   |150k
 @       Exeggutor|Lvl 100|24|26|31|27|15|16|Psychic  |15k
+
+Epic Fail
