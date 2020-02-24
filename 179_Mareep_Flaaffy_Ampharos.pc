@@ -1,8 +1,17 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny   Mareep|Lvl  15|31|28|28|30|29|29|Water    |
+@ Shiny Ampharos|Lvl 100|29|30|30|30|29|31|Water    |
 
 Shiny
+@ Shiny Mareep|Lvl  29|30|30|30|25|24|29|Bug      |
+@ Shiny Mareep|Lvl  29|30|27|28|25|25|25|Ice      |
+@ Shiny Mareep|Lvl  29|24|29|24|26|20|21|Poison   |
+@ Shiny Mareep|Lvl  28|31|25|20|25|20|20|Rock     |
+@ Shiny Mareep|Lvl  28|25|29|21|24|28|25|Ground   |
+@ Shiny Mareep|Lvl  29|27|31|25|25|27|30|Ice      |
+
 @ Shiny Mareep|Lvl  29|28|23|26|21|28|29|Ghost    |150k
 @ Shiny Mareep|Lvl  28|21|28|21|27|24|29|Ghost    |150k
 @ Shiny Mareep|Lvl  28|23|26|27|29|26|24|Bug      |175k
@@ -14,3 +23,7 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@         Mareep|Lvl  29|11|19|18|22|20|10|Fighting |
+@       Ampharos|Lvl 100|18|22|27|31|31|31|Dragon   |
+
+Epic Fail
