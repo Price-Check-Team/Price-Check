@@ -1,6 +1,8 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny Chinchou|Lvl  28|31|28|31|29|29|29|Dragon   |
+@ Shiny  Lanturn|Lvl 100|28|28|28|28|28|28|Fighting |
 
 Shiny
 @ Shiny Chinchou|Lvl  29|26|30|20|29|21|25|Ice      |1m
@@ -20,3 +22,6 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Chinchou|Lvl  29|30|30|13|10|24|19|Poison   |
+
+Epic Fail
