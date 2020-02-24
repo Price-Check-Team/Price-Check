@@ -9,6 +9,10 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@         Dratini|Lvl  10|20|16|29|23|19|21|Dragon   |
+@         Dratini|Lvl  47| 6|21|23|10|22|30|Flying   |
+@       Dragonite|Lvl 100|28|13|18| 1| 6|23|Ghost    |
+
 @         Dratini|Lvl  27| 4|11|18|21|15| 1|Ice      |100k
 @         Dratini|Lvl  28| 9|13|10|28|26|30|Fighting |250k
 @         Dratini|Lvl   9| 7| 3|10|12|15|10|Fire     |100k
@@ -22,3 +26,5 @@ Non Shiny
 @       Dragonite|Lvl 100|17|10| 5|14|26|27|Ground   |1.5m
 @       Dragonite|Lvl  82| 9| 2|26|24|30|11|Poison   |300k
 @       Dragonite|Lvl 100|16|24|24| 5|28|13|Bug      |1.3m
+
+Epic Fail
