@@ -1,9 +1,21 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny Magikarp|Lvl  19|31|30|30|28|29|29|Water    |
+@ Shiny Magikarp|Lvl  29|30|30|28|31|28|28|Ground   |
+@ Shiny Gyarados|Lvl 100|29|31|30|31|28|31|Ghost    |
+
 @ Shiny Gyarados|Lvl 100|28|31|30|29|30|29|Ghost    |4m / 3m
 
 Shiny
+@ Shiny Magikarp|Lvl  30|26|29|23|25|30|28|Bug      |
+@ Shiny Magikarp|Lvl  10|22|20|28|22|31|29|Water    |
+@ Shiny Magikarp|Lvl  43|23|21|29|20|22|23|Ground   |
+@ Shiny Magikarp|Lvl  44|25|24|28|29|29|28|Electric |
+@ Shiny Magikarp|Lvl  11|27|30|23|30|22|23|Ground   |
+@ Shiny Gyarados|Lvl 100|27|27|24|29|31|24|Psychic  |
+@ Shiny Gyarados|Lvl 100|21|20|25|20|25|30|Fire     |
+
 @ Shiny Magikarp|Lvl  55|22|26|29|25|31|26|Psychic  |+100k
 @ Shiny Magikarp|Lvl  46|30|30|23|23|24|30|Rock     |+350k
 @ Shiny Magikarp|Lvl  27|27|26|26|22|24|27|Poison   |150k / 300k
@@ -26,3 +38,6 @@ Non Shiny 20+
 @       Gyarados|Lvl  36|27|20|25|25|27|30|Psychic  |200k
 
 Non Shiny
+@       Gyarados|Lvl 100|21|23|29|15|27|31|Dark     |
+
+Epic Fail
