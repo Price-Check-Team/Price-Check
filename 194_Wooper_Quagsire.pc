@@ -1,25 +1,52 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
+@ Shiny Wooper|Lvl  53|30|31|29|31|29|28|Psychic  |
+@ Shiny Quagsire|Lvl 100|28|29|30|30|29|28|Fire     |
 
 Shiny
-@   Shiny Wooper|Lvl  48|20|21|22|30|29|20|Fire     |200k
-@   Shiny Wooper|Lvl  46|23|29|22|31|28|30|Rock     |300k
-@   Shiny Wooper|Lvl  49|27|26|23|31|26|31|Ghost    |350k
-@   Shiny Wooper|Lvl   7|27|25|25|27|20|29|Steel    |150k
-@   Shiny Wooper|Lvl   8|28|31|20|30|28|27|Poison   |250k
-@   Shiny Wooper|Lvl  52|23|31|24|31|23|23|Dragon   |75k
-@   Shiny Wooper|Lvl  56|23|20|31|27|28|27|Ghost    |200k
-@   Shiny Wooper|Lvl  56|28|29|29|22|22|21|Ground   |200k
-@   Shiny Wooper|Lvl  54|25|29|31|24|24|30|Flying   |150k
-@   Shiny Wooper|Lvl  54|26|21|20|31|24|21|Ghost    |150k
-@   Shiny Wooper|Lvl  54|24|26|25|27|29|21|Dragon   |250k
-@   Shiny Wooper|Lvl  54|24|26|25|27|29|21|Dragon   |100k
-@   Shiny Wooper|Lvl  54|26|25|27|20|25|30|Water    |200k
-@   Shiny Wooper|Lvl  56|29|30|23|23|25|29|Dragon   |200k
-@   Shiny Wooper|Lvl  54|24|28|25|25|22|23|Ghost    |100k
-@   Shiny Wooper|Lvl  52|23|24|31|23|20|25|Ghost    |100k
-@   Shiny Wooper|Lvl  53|31|21|22|22|31|27|Grass    |250k
+@ Shiny   Wooper|Lvl  53|24|27|28|20|21|31|Grass    |
+@ Shiny   Wooper|Lvl  52|29|20|29|27|25|31|Dragon   |
+@ Shiny   Wooper|Lvl  54|23|22|23|26|30|31|Ground   |
+@ Shiny   Wooper|Lvl  54|23|30|30|25|20|31|Bug      |
+@ Shiny   Wooper|Lvl  18|23|23|28|22|21|31|Grass    |
+@ Shiny   Wooper|Lvl  53|29|31|30|21|30|30|Rock     |
+@ Shiny   Wooper|Lvl  53|27|24|30|21|27|28|Electric |
+@ Shiny   Wooper|Lvl  56|28|31|29|25|22|24|Bug      |
+@ Shiny   Wooper|Lvl  53|25|30|22|30|22|30|Fighting |
+@ Shiny   Wooper|Lvl  55|21|24|28|27|26|23|Bug      |
+@ Shiny   Wooper|Lvl  54|24|26|25|27|29|21|Dragon   |
+@ Shiny   Wooper|Lvl  56|23|20|31|27|28|27|Ghost    |
+@ Shiny   Wooper|Lvl  55|29|26|29|26|24|25|Ground   |
+@ Shiny   Wooper|Lvl  54|26|25|27|20|25|30|Water    |
+@ Shiny Quagsire|Lvl  47|24|23|23|20|30|31|Ground   |
+@ Shiny Quagsire|Lvl  33|23|22|20|22|24|31|Poison   |
+@ Shiny Quagsire|Lvl  33|22|23|22|22|23|30|Fire     |
+@ Shiny Quagsire|Lvl  58|23|25|27|28|23|29|Electric |
+@ Shiny Quagsire|Lvl  32|27|20|30|23|22|27|Bug      |
+@ Shiny Quagsire|Lvl  44|24|24|25|23|29|21|Dragon   |
+@ Shiny Quagsire|Lvl  34|21|22|29|21|24|22|Bug      |
+@ Shiny Quagsire|Lvl  34|22|22|25|31|31|27|Dragon   |
+@ Shiny Quagsire|Lvl  46|24|24|27|22|23|28|Fire     |
+@ Shiny Quagsire|Lvl  49|22|26|26|30|29|29|Water    |
+
+@ Shiny   Wooper|Lvl  48|20|21|22|30|29|20|Fire     |200k
+@ Shiny   Wooper|Lvl  46|23|29|22|31|28|30|Rock     |300k
+@ Shiny   Wooper|Lvl  49|27|26|23|31|26|31|Ghost    |350k
+@ Shiny   Wooper|Lvl   7|27|25|25|27|20|29|Steel    |150k
+@ Shiny   Wooper|Lvl   8|28|31|20|30|28|27|Poison   |250k
+@ Shiny   Wooper|Lvl  52|23|31|24|31|23|23|Dragon   |75k
+@ Shiny   Wooper|Lvl  56|23|20|31|27|28|27|Ghost    |200k
+@ Shiny   Wooper|Lvl  56|28|29|29|22|22|21|Ground   |200k
+@ Shiny   Wooper|Lvl  54|25|29|31|24|24|30|Flying   |150k
+@ Shiny   Wooper|Lvl  54|26|21|20|31|24|21|Ghost    |150k
+@ Shiny   Wooper|Lvl  54|24|26|25|27|29|21|Dragon   |250k
+@ Shiny   Wooper|Lvl  54|24|26|25|27|29|21|Dragon   |100k
+@ Shiny   Wooper|Lvl  54|26|25|27|20|25|30|Water    |200k
+@ Shiny   Wooper|Lvl  56|29|30|23|23|25|29|Dragon   |200k
+@ Shiny   Wooper|Lvl  54|24|28|25|25|22|23|Ghost    |100k
+@ Shiny   Wooper|Lvl  52|23|24|31|23|20|25|Ghost    |100k
+@ Shiny   Wooper|Lvl  53|31|21|22|22|31|27|Grass    |250k
 @ Shiny Quagsire|Lvl  56|22|26|23|23|22|21|Ghost    |250k
 @ Shiny Quagsire|Lvl  55|22|22|28|29|24|20|Ground   |150k
 @ Shiny Quagsire|Lvl  49|30|26|29|24|20|25|Poison   |200k
@@ -30,3 +57,6 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Wooper|Lvl  52|20|26|22|25|12|28|Ground   |
+
+Epic Fail
