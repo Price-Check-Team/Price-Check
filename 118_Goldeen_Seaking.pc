@@ -3,6 +3,10 @@ Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 Shiny 28+
 
 Shiny
+@ Shiny Goldeen|Lvl  31|29|29|23|20|28|22|Flying   |
+@ Shiny Goldeen|Lvl  11|26|30|28|29|30|30|Ground   |
+@ Shiny Goldeen|Lvl   9|28|27|22|27|21|29|Ice      |
+
 @ Shiny Goldeen|Lvl  28|21|31|23|30|23|24|Water    |150k
 @ Shiny Goldeen|Lvl  16|30|25|21|22|22|30|Flying   |150k
 @ Shiny Goldeen|Lvl  28|21|26|31|22|20|28|Flying   |150k
@@ -17,3 +21,5 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+
+Epic Fail
