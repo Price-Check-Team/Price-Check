@@ -14,7 +14,18 @@ Non Shiny 20+
 @       Remoraid|Lvl  28|30|31|21|24|30|23|Ground   |
 
 Non Shiny
+@       Remoraid|Lvl  28|18|28|28|26|28|31|Flying   |
+@       Remoraid|Lvl  14|17|30|24|17|31|30|Electric |
+@       Remoraid|Lvl  28|31|21|20|20|18|31|Poison   |
+@       Remoraid|Lvl  29|19|30|23|14|31|31|Grass    |
+@       Remoraid|Lvl  15|31|22|24|18|30|31|Poison   |
+@       Remoraid|Lvl  28|27|18|26|29|25|30|Electric |
+
 @       Remoraid|Lvl  28|14|25|29|30|22|21|Ground   |30k
 @       Remoraid|Lvl  16|24|22|16|23|31|28|Electric |20k
 @       Remoraid|Lvl  15|18|22|27|29|21|28|Psychic  |20k
 @       Remoraid|Lvl  28|24|20|27|22|30|16|Fighting |20k
+
+Epic Fail
+@        Remoraid|Lvl  14| 8| 9| 2| 7| 9| 9|Ice      |
+@       Octillery|Lvl  17| 6| 4| 7| 4| 2| 6|Fighting |
