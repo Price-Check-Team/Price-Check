@@ -1,0 +1,30 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Xatu|Lvl  96|28|28|29|29|28|30|Rock     |
+
+Shiny
+@ Shiny Natu|Lvl  41|29|29|26|31|21|27|Dragon   |
+@ Shiny Natu|Lvl   1|27|20|30|22|30|28|Fighting |
+@ Shiny Natu|Lvl  41|29|25|22|22|24|20|Fighting |
+@ Shiny Natu|Lvl   1|31|29|26|22|25|20|Fire     |
+@ Shiny Natu|Lvl   1|23|20|24|28|22|25|Poison   |
+@ Shiny Natu|Lvl   1|31|26|22|25|30|29|Bug      |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Natu|Lvl  33| 5| 8| 5| 8| 0| 5|Ground   |
+@       Natu|Lvl   1|17|26|14|21|18|23|Bug      |
+@       Natu|Lvl   1|17|20|21|11|31|11|Dragon   |
+@       Natu|Lvl   1|11|20|25|14|28|15|Ground   |
+@       Natu|Lvl   1|21|11|10|20|22|10|Fighting |
+@       Natu|Lvl   1|25|15|16|21|17|10|Psychic  |
+@       Natu|Lvl   1|13|12|16|29|21|25|Ice      |
+@       Natu|Lvl   1|27|10|27|22|17|20|Fire     |
+@       Natu|Lvl   1|20|30|26|27|13|17|Ice      |
+@       Xatu|Lvl  40|31|19|23|26|27|24|Water    |
+
+Epic Fail
