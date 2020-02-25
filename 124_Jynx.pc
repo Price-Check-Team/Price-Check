@@ -1,0 +1,24 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Jynx|Lvl  23|22|21|30|24|31|22|Fire     |
+
+Non Shiny
+@       Jynx|Lvl  23| 1| 1| 4| 2| 9| 5|Grass    |
+@       Jynx|Lvl  21|28|25|16|28|22|31|Poison   |
+@       Jynx|Lvl  23|27|13|17|30|29|23|Electric |
+@       Jynx|Lvl  23|23|12|31|15|27|24|Psychic  |
+@       Jynx|Lvl  22|31|21|29|10|31|10|Water    |
+@       Jynx|Lvl  22|12|31|26|28|22|10|Fighting |
+@       Jynx|Lvl  22|19| 5|30|26|26|26|Fighting |
+@       Jynx|Lvl  22|25| 4|23|21|20|24|Bug      |
+@       Jynx|Lvl  22|26|15|17|30|11|25|Grass    |
+@       Jynx|Lvl  20| 9|22|28|31| 7|31|Ice      |
+
+Epic Fail
