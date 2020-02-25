@@ -1,0 +1,60 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Spheal|Lvl  20| 8| 1| 2| 6| 4| 6|Fighting |
+@       Spheal|Lvl  20|25|31|16|26|24|29|Poison   |
+@       Spheal|Lvl  21|22|19|24|30| 9|29|Grass    |
+@       Spheal|Lvl  22|22|15|16|22|15|22|Fire     |
+@       Spheal|Lvl  23|10|31|30|14|20|22|Fighting |
+@       Spheal|Lvl  23| 5|25|16|27|23|26|Psychic  |
+@       Spheal|Lvl  22| 7|12|24| 1|26|31|Bug      |
+@       Spheal|Lvl  23|25|28|23| 0|10|31|Ground   |
+@       Spheal|Lvl  23|17| 8|31| 7|27|23|Dragon   |
+@       Spheal|Lvl  22|25|31|16|21|10| 6|Rock     |
+@       Spheal|Lvl  20|10|17|31|17|29|23|Dragon   |
+@       Sealeo|Lvl  60|29|29|24|28|22|13|Poison   |
+@       Sealeo|Lvl  63|23|24|22|18|26|27|Poison   |
+@       Sealeo|Lvl  63|30|21|30|17|12|28|Rock     |
+@       Sealeo|Lvl  62|15|11|26|28|31|26|Fire     |
+@       Sealeo|Lvl  60|31|27|23|27|12|16|Bug      |
+@       Sealeo|Lvl  63|24|12|20|27|22|29|Bug      |
+@       Sealeo|Lvl  62|21|22|12|27|12|14|Rock     |
+@       Sealeo|Lvl  64| 9|11|26| 9|15|25|Dragon   |
+@       Sealeo|Lvl  60|12|28|18|11|30|26|Ground   |
+@       Sealeo|Lvl  64|21|18|28|22| 4|29|Poison   |
+@       Sealeo|Lvl  60|14|18|24|22|25|21|Water    |
+@       Sealeo|Lvl  61|17|17|27|14|24|20|Flying   |
+@       Sealeo|Lvl  61|10| 4|28|26|30|25|Flying   |
+@       Sealeo|Lvl  64|13|30|29|15|30|29|Ghost    |
+@       Sealeo|Lvl  64|28|24|15|24|26|27|Poison   |
+@       Sealeo|Lvl  61|31|21|18|24|27|27|Grass    |
+@       Sealeo|Lvl  60|31|27| 5|27|28|28|Bug      |
+@       Sealeo|Lvl  62| 9|13|23| 9|28|29|Steel    |
+@       Sealeo|Lvl  62|26|14|27|31| 8|30|Rock     |
+@       Sealeo|Lvl  64|10|25|24|30|12|23|Poison   |
+@       Sealeo|Lvl  62|30|13|20|25|19|24|Electric |
+@       Sealeo|Lvl  63| 4|20|23|24|26|12|Fighting |
+@       Sealeo|Lvl  62| 3|23|29|27|24|25|Steel    |
+@       Sealeo|Lvl  60|16|26|16|20|31| 1|Water    |
+@       Sealeo|Lvl  64|21|26| 0|16|15|23|Water    |
+@       Sealeo|Lvl  61|13|17|16|29|14|21|Ghost    |
+@       Sealeo|Lvl  64|14|16|30|19|30|24|Ground   |
+@       Sealeo|Lvl  60|24|26|28|25|13| 0|Electric |
+@       Sealeo|Lvl  61|29|16|14|30| 6|21|Poison   |
+@       Sealeo|Lvl  64|14|26|14|25|12| 6|Ground   |
+@       Sealeo|Lvl  62|21|20|13|20| 9|16|Fire     |
+@       Sealeo|Lvl  61|15|20|28|23|24|18|Rock     |
+@       Sealeo|Lvl  64|19|30|20|18|28|20|Fighting |
+@       Sealeo|Lvl  62|31|19|19|16|21|30|Water    |
+@       Walrein|Lvl 100|31|21|28|19|19| 8|Psychic  |
+@       Walrein|Lvl  44|23|28|15|25| 3|31|Dragon   |
+
+Epic Fail
