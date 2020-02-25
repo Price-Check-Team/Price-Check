@@ -1,0 +1,29 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Farfetch'd|Lvl  64|31|28|30|28|30|28|Fighting |
+
+Shiny
+@ Shiny Farfetch'd|Lvl   1|30|21|30|20|24|27|Poison   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Farfetch'd|Lvl   1|31|17|25|29|25|28|Ice      |
+@       Farfetch'd|Lvl   1|25|23|30|31|16|21|Ghost    |
+@       Farfetch'd|Lvl   1|15|26|31|31|23|10|Psychic  |
+@       Farfetch'd|Lvl   1|20|31|28|18|13|19|Grass    |
+@       Farfetch'd|Lvl   1|25|16|21|24|13|24|Fire     |
+@       Farfetch'd|Lvl   1|24|12|24|11|22|14|Ground   |
+@       Farfetch'd|Lvl   1|25|19|18|15|13|30|Psychic  |
+@       Farfetch'd|Lvl   1|29|19|11|16|12|17|Ground   |
+@       Farfetch'd|Lvl   1|22|13|11|28|19|29|Grass    |
+@       Farfetch'd|Lvl   1|14|10|24|23|19|27|Ice      |
+@       Farfetch'd|Lvl   1|13|11|24|25|31|24|Psychic  |
+@       Farfetch'd|Lvl   1|11|23|26|27|11|31|Dragon   |
+@       Farfetch'd|Lvl   1|30|11|23|23|15|27|Dragon   |
+@       Farfetch'd|Lvl   1|18|17|19|10|31|13|Grass    |
+
+Epic Fail
