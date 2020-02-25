@@ -1,0 +1,55 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Zubat|Lvl  15|29|30|28|30|30|31|Poison   |
+@ Shiny Zubat|Lvl  43|29|28|28|31|31|30|Electric |
+@ Shiny Golbat|Lvl  49|29|31|30|31|31|29|Dragon   |
+
+Shiny
+@ Shiny  Zubat|Lvl  33|23|23|26|23|27|24|Psychic  |
+@ Shiny  Zubat|Lvl  55|21|24|26|30|31|31|Water    |
+@ Shiny  Zubat|Lvl  55|29|23|26|28|21|31|Grass    |
+@ Shiny  Zubat|Lvl  34|23|25|27|26|27|31|Electric |
+@ Shiny  Zubat|Lvl  34|21|24|22|22|20|31|Poison   |
+@ Shiny  Zubat|Lvl  33|29|20|27|24|25|31|Grass    |
+@ Shiny  Zubat|Lvl  57|28|24|20|31|20|31|Bug      |
+@ Shiny  Zubat|Lvl  53|27|26|27|21|22|22|Bug      |
+@ Shiny  Zubat|Lvl  32|25|29|23|25|25|29|Dark     |
+@ Shiny  Zubat|Lvl  32|22|31|27|22|28|27|Ground   |
+@ Shiny  Zubat|Lvl  32|24|23|24|30|20|23|Poison   |
+@ Shiny  Zubat|Lvl  56|26|21|22|20|24|26|Fighting |
+@ Shiny  Zubat|Lvl  33|21|26|24|24|29|27|Water    |
+@ Shiny  Zubat|Lvl  55|20|23|27|28|25|26|Water    |
+@ Shiny  Zubat|Lvl  54|27|31|30|22|28|22|Fighting |
+@ Shiny  Zubat|Lvl  55|20|27|22|28|21|26|Fire     |
+@ Shiny  Zubat|Lvl  32|21|29|24|27|30|20|Rock     |
+@ Shiny  Zubat|Lvl  56|28|26|23|22|29|30|Fire     |
+@ Shiny  Zubat|Lvl  53|27|26|21|28|26|30|Flying   |
+@ Shiny  Zubat|Lvl  57|28|28|25|20|26|28|Fighting |
+@ Shiny  Zubat|Lvl  53|26|29|30|24|27|28|Fire     |
+@ Shiny Golbat|Lvl  32|23|24|23|28|26|31|Ground   |
+@ Shiny Golbat|Lvl  33|24|23|27|21|21|31|Dragon   |
+@ Shiny Golbat|Lvl  34|29|29|22|22|30|31|Poison   |
+@ Shiny Golbat|Lvl  33|26|29|27|31|31|29|Dragon   |
+@ Shiny Golbat|Lvl  33|29|27|20|30|26|28|Fighting |
+@ Shiny Golbat|Lvl  34|28|27|31|25|27|30|Psychic  |
+@ Shiny Golbat|Lvl  33|27|21|22|26|31|27|Grass    |
+@ Shiny Golbat|Lvl  34|23|22|29|23|27|25|Dragon   |
+@ Shiny Golbat|Lvl  33|26|25|21|20|25|25|Grass    |
+@ Shiny Golbat|Lvl  32|23|30|24|30|29|28|Steel    |
+@ Shiny Golbat|Lvl  33|25|27|26|24|22|30|Fighting |
+@ Shiny Golbat|Lvl  46|29|20|23|25|28|30|Bug      |
+@ Shiny Golbat|Lvl  34|22|20|23|20|21|23|Grass    |
+@ Shiny Golbat|Lvl  47|30|29|21|29|29|22|Psychic  |
+@ Shiny Golbat|Lvl  34|30|26|26|28|23|25|Water    |
+@ Shiny Golbat|Lvl  34|27|28|25|29|23|29|Dragon   |
+@ Shiny Golbat|Lvl  34|26|28|26|31|24|27|Bug      |
+@ Shiny Golbat|Lvl  37|27|22|21|30|24|28|Flying   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+
+Epic Fail
