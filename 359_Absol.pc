@@ -1,0 +1,37 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Absol|Lvl  64|25|26|30|10|28|27|Poison   |
+@       Absol|Lvl  66|23|27|16|29|31|12|Psychic  |
+@       Absol|Lvl  63|21|21|18|17|30|25|Ghost    |
+@       Absol|Lvl  63|27|30|11|16|13|29|Grass    |
+@       Absol|Lvl  65|26|27|10|25|25|12|Electric |
+@       Absol|Lvl  62|19|30|22|25|10|15|Bug      |
+@       Absol|Lvl  66|11|30| 9|15| 7|31|Dragon   |
+@       Absol|Lvl  63|27|23| 6|14|27|29|Grass    |
+@       Absol|Lvl  63|15|18|20|27|18|24|Rock     |
+@       Absol|Lvl  66|21|14|10| 2|20|21|Poison   |
+@       Absol|Lvl  65|23|25|12| 5| 6|31|Ghost    |
+@       Absol|Lvl  66| 6|29| 1|16|25|28|Water    |
+@       Absol|Lvl  65|19|18|21| 4|26|31|Ground   |
+@       Absol|Lvl  62|15|17|27|24| 7|27|Electric |
+@       Absol|Lvl  63|18|15|25|12| 4|28|Flying   |
+@       Absol|Lvl  63|18|31|31|12| 1|27|Grass    |
+@       Absol|Lvl  65| 0|13|29|18|21|30|Water    |
+@       Absol|Lvl  65|22|24|11| 5|26|16|Rock     |
+@       Absol|Lvl  65|17|17|27|13|16|13|Steel    |
+@       Absol|Lvl  65|30|27|30| 3|18|25|Ghost    |
+@       Absol|Lvl  62|29|31| 6|19|20|18|Rock     |
+@       Absol|Lvl  65|18|21|29|21| 3|22|Psychic  |
+@       Absol|Lvl  64|20|12|29| 6|12|17|Poison   |
+@       Absol|Lvl  62| 8|31|30|23|26|20|Rock     |
+
+Epic Fail
