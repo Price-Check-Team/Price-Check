@@ -1,0 +1,26 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Shellder|Lvl  25|26|31|31|19|27|22|Psychic  |
+@       Shellder|Lvl  28|31|23|28|11|30|30|Rock     |
+@       Shellder|Lvl  15|24|31|16|21|31|21|Ice      |
+@       Shellder|Lvl  27|24|19|31|18|20|26|Flying   |
+@       Shellder|Lvl  26|23|29|27|17|15|25|Dark     |
+@       Shellder|Lvl  30|21|20|21|12|21|25|Grass    |
+@       Shellder|Lvl  30|15|28|22|12|12|26|Fighting |
+@       Shellder|Lvl  29|16|30|19| 2|30|29|Poison   |
+@       Shellder|Lvl  30|29|25| 3|29|20|12|Bug      |
+@       Shellder|Lvl  31|28|26|20| 8|31|29|Water    |
+@       Shellder|Lvl  31|22|16|14|20|20|13|Flying   |
+@       Cloyster|Lvl 100|27|23|15|19| 9|31|Dark     |
+@       Cloyster|Lvl 100|12|28|15|14| 5|31|Grass    |
+
+Epic Fail
