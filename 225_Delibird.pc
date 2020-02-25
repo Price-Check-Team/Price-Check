@@ -1,0 +1,40 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Delibird|Lvl  52|30|31|28|28|31|28|Fire     |
+
+Shiny
+@ Shiny Delibird|Lvl  60|22|24|24|24|21|24|Steel    |
+@ Shiny Delibird|Lvl  59|27|28|29|29|28|26|Bug      |
+@ Shiny Delibird|Lvl  61|20|22|20|23|29|23|Ice      |
+@ Shiny Delibird|Lvl  60|20|23|26|27|30|27|Ghost    |
+@ Shiny Delibird|Lvl  61|28|29|25|26|28|28|Flying   |
+@ Shiny Delibird|Lvl   1|26|20|20|29|28|28|Ground   |
+@ Shiny Delibird|Lvl  61|22|28|26|27|26|24|Ground   |
+@ Shiny Delibird|Lvl  60|27|30|25|26|27|28|Fire     |
+@ Shiny Delibird|Lvl  60|27|29|23|20|21|27|Electric |
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Delibird|Lvl   1|27|22|26|25|27|24|Electric |
+
+Non Shiny
+@       Delibird|Lvl  23|31|28|12|29|20|31|Bug      |
+@       Delibird|Lvl  32|25|31|14|24|23|27|Grass    |
+@       Delibird|Lvl   1|19|21|25|10|17|21|Electric |
+@       Delibird|Lvl  34|19|26|21|22|22|15|Ground   |
+@       Delibird|Lvl   1|15|25|30|17|24|11|Ghost    |
+@       Delibird|Lvl   1|18|27|22|14|31|22|Fire     |
+@       Delibird|Lvl   1|12|30|11|22|24|13|Poison   |
+@       Delibird|Lvl   1|25|16|21|19|27|14|Psychic  |
+@       Delibird|Lvl   1|18|18|26|25|29|18|Electric |
+@       Delibird|Lvl   1|30|19|26|19|10|11|Ghost    |
+@       Delibird|Lvl   1|10|12|14|24|19|31|Water    |
+@       Delibird|Lvl   1|26|23|12|21|15|17|Ice      |
+@       Delibird|Lvl   1|17|21|14|12|12|15|Poison   |
+@       Delibird|Lvl   1|13|17|28|17|22|30|Rock     |
+@       Delibird|Lvl   1|22|24|30|19|22|12|Ground   |
+@       Delibird|Lvl   1|24|16|14|29|28|19|Bug      |
+
+Epic Fail
