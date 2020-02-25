@@ -1,0 +1,23 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Magmar|Lvl  22|27|27|30|21|12|25|Ghost    |
+@       Magmar|Lvl  41|27|24|23|11|27|27|Dragon   |
+@       Magmar|Lvl  23|22|15|24|25|21|25|Ice      |
+@       Magmar|Lvl  22|10|30|24|20|16|21|Flying   |
+@       Magmar|Lvl  22|19|12|24|31|13|13|Ice      |
+@       Magmar|Lvl  31|12|27|16|14|14|24|Fighting |
+@       Magmar|Lvl  35| 2|23|24|23|13|23|Ice      |
+@       Magmar|Lvl  23|21|22| 4|12| 8|12|Fighting |
+@       Magmar|Lvl  22|14|12| 0|19|13|15|Ice      |
+@       Magmar|Lvl  23|23|12|25|28|21| 8|Fire     |
+
+Epic Fail
