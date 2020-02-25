@@ -1,0 +1,25 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Ditto|Lvl   5|26|22|27|31|25|29|Dragon   |
+@ Shiny Ditto|Lvl   4|28|27|26|22|23|23|Grass    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Ditto|Lvl   6|29|20|19|28|28|29|Ground   |
+@       Ditto|Lvl  46|28|11|31|26|27|25|Grass    |
+@       Ditto|Lvl   4|18|28|27|16|11|30|Fire     |
+@       Ditto|Lvl  40|22|31|14|31|22|17|Ghost    |
+@       Ditto|Lvl   6|18|28|30|30|20|13|Flying   |
+@       Ditto|Lvl  11|16|29|29|22|11|12|Water    |
+@       Ditto|Lvl   6|25|29|12|21|11| 8|Psychic  |
+@       Ditto|Lvl   5|14|20|25|28|19|24|Fire     |
+@       Ditto|Lvl   5|14|12|13|28|26|21|Poison   |
+@       Ditto|Lvl  44|16|16|26|28|29|11|Water    |
+
+Epic Fail
