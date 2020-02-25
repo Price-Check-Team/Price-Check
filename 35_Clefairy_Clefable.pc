@@ -1,0 +1,32 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Clefairy|Lvl  61|27|12|31|31|25|18|Psychic  |
+@       Clefairy|Lvl  61|31|19|27|16|24|26|Flying   |
+@       Clefairy|Lvl  59|16|19|25|30|23|29|Grass    |
+@       Clefairy|Lvl  60|31|29|31|10|23|11|Electric |
+@       Clefairy|Lvl  60|28|14|13|29|25|20|Psychic  |
+@       Clefairy|Lvl  59|16|26|15|28|14|26|Fighting |
+@       Clefairy|Lvl   6|19|24|12|23|30|21|Bug      |
+@       Clefairy|Lvl  61|31|13|13|13|22|12|Bug      |
+@       Clefairy|Lvl  59|20|22|11|14|20|22|Fighting |
+@       Clefairy|Lvl  61|28|15|19|28|10|16|Flying   |
+@       Clefairy|Lvl  59|22|11|16|13|26|23|Ghost    |
+@       Clefairy|Lvl  61|29|25|18|23|11|28|Psychic  |
+@       Clefairy|Lvl  59|16|22|19|29|27|29|Dragon   |
+@       Clefairy|Lvl  59|30|31| 4|30|21|30|Fire     |
+@       Clefairy|Lvl  60|29| 3|12|23| 7|10|Psychic  |
+@       Clefairy|Lvl  61|28|10|25|19|29|10|Psychic  |
+@       Clefairy|Lvl  60|25|28|11|18|21|15|Grass    |
+@       Clefairy|Lvl  61|29|17|20|23|14|20|Rock     |
+@       Clefairy|Lvl  60|22|12|25|13|21|30|Psychic  |
+
+Epic Fail
