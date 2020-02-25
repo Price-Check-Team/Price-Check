@@ -1,0 +1,44 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Sneasel|Lvl  60|20|28|29|27|20|29|Ghost    |
+@ Shiny Sneasel|Lvl  60|24|27|24|31|24|26|Rock     |
+@ Shiny Sneasel|Lvl  60|24|30|26|22|21|27|Water    |
+@ Shiny Sneasel|Lvl  60|30|27|26|26|22|20|Fighting |
+@ Shiny Sneasel|Lvl  60|30|22|25|26|22|23|Poison   |
+@ Shiny Sneasel|Lvl  59|20|31|28|22|28|22|Fighting |
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Sneasel|Lvl  61|21|20|31|25|22|29|Ghost    |
+@       Sneasel|Lvl  59|24|24|20|30|25|23|Water    |
+
+Non Shiny
+@       Sneasel|Lvl  61|27|18|31|28|16|30|Flying   |
+@       Sneasel|Lvl  60|29|31|24|24|11|30|Fire     |
+@       Sneasel|Lvl  59|29|21|30|17|27|21|Dragon   |
+@       Sneasel|Lvl  60|24|30|27|11|21|31|Dragon   |
+@       Sneasel|Lvl  61|22|24|23|20|10|20|Fighting |
+@       Sneasel|Lvl  61| 2|27|23|19| 7| 5|Dragon   |
+@       Sneasel|Lvl  59| 0|29|30|15|12|29|Ghost    |
+@       Sneasel|Lvl  60|26|23|24| 1|19|29|Ice      |
+@       Sneasel|Lvl  61|15|19|25|12|23|20|Water    |
+@       Sneasel|Lvl  61|16|29|22|12|23|23|Grass    |
+@       Sneasel|Lvl  60|28|29|17|12|27|25|Grass    |
+@       Sneasel|Lvl  60|25|31|24|19|13|29|Dragon   |
+@       Sneasel|Lvl  60|28|13|15|30|25|28|Water    |
+@       Sneasel|Lvl  60|20|24|22|16| 1|30|Steel    |
+@       Sneasel|Lvl  60|20|25|24| 6|20|25|Poison   |
+@       Sneasel|Lvl  60|17|31|26|19|24|20|Rock     |
+@       Sneasel|Lvl  59| 5|30|24|28|30|26|Fighting |
+@       Sneasel|Lvl  61|31|28| 7|25|16|29|Ghost    |
+@       Sneasel|Lvl  61|14|30|28| 4|25|31|Water    |
+@       Sneasel|Lvl  59|13|24| 0|26|30|31|Poison   |
+@       Sneasel|Lvl  60|12|24|20|16|21|21|Water    |
+@       Sneasel|Lvl  60|16|14|30|14|30|31|Flying   |
+@       Sneasel|Lvl  59|25|23|24|25|15|24|Psychic  |
+
+Epic Fail
