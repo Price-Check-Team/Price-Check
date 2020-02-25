@@ -21,13 +21,13 @@ Non Shiny
 @       Snorlax|Lvl  29|23|19| 5|29|28| 4|Bug      |80k / 500k
 @       Snorlax|Lvl  30| 9|11| 5|19|29| 4|Ice      |5k / 50k
 @       Snorlax|Lvl  31|31|31|28| 7|17| 1|Dragon   |2m / 6m
+@       Snorlax|Lvl  29|16| 1|28|30|25|10|Fire     |30k / 100k
+@       Snorlax|Lvl  27|17|26|11|31|22| 0|Bug      |30k / 250k
 @       Snorlax|Lvl  31|11|15|19|13| 9| 0|Ice      |2k / 50k
 @       Snorlax|Lvl  30|24|19|12| 0|10| 7|Poison   |10k / 100k
 @       Snorlax|Lvl  28|31|23| 3|23|12|31|Steel    |50k / 1m
 @       Snorlax|Lvl  29|19|23|18|21|16|10|Rock     |40k / 250k
 @       Snorlax|Lvl  30|11| 4|18|26| 8| 1|Poison   |2k / 50k
-@       Snorlax|Lvl  29|16| 1|28|30|25|10|Fire     |30k / 100k
-@       Snorlax|Lvl  27|17|26|11|31|22| 0|Bug      |30k / 250k
 @       Snorlax|Lvl  39|11| 4|18|26| 8| 1|Poison   |30k / 100k
 
 Epic Fail
