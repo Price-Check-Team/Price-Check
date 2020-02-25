@@ -1,0 +1,31 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Hoothoot|Lvl  24|28|28|28|29|30|30|Ground   |
+@ Shiny Noctowl|Lvl  21|28|28|28|28|28|28|Fighting |
+
+Shiny
+@ Shiny Hoothoot|Lvl   3|25|27|30|27|22|31|Ghost    |
+@ Shiny Hoothoot|Lvl   3|28|25|25|27|27|26|Psychic  |
+@ Shiny Hoothoot|Lvl   3|20|30|21|28|29|28|Fire     |
+@ Shiny Hoothoot|Lvl   3|29|23|29|25|28|28|Bug      |
+@ Shiny Hoothoot|Lvl  13|20|29|25|25|23|24|Psychic  |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Hoothoot|Lvl   1|25|29|19|24|19|29|Electric |
+@       Hoothoot|Lvl  11|28|20|28|14|25|10|Steel    |
+@       Hoothoot|Lvl   1|24|16|28|30|14|22|Fighting |
+@       Hoothoot|Lvl   1|10|15|12|17|16|19|Ghost    |
+@       Hoothoot|Lvl   1|16|23|29|15|30|12|Bug      |
+@       Hoothoot|Lvl   1|31|23|28|13|16|23|Ghost    |
+@       Hoothoot|Lvl   1|17|16|30|18|25|15|Water    |
+@       Hoothoot|Lvl   1|11|16|14|30|10|22|Fighting |
+@       Hoothoot|Lvl   1|30|22|25|16|10|29|Poison   |
+@       Hoothoot|Lvl   1|30|12|16|20|10|29|Flying   |
+@       Hoothoot|Lvl   1|23|18|26|17|22|30|Rock     |
+
+Epic Fail
