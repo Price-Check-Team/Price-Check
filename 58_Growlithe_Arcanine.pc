@@ -24,7 +24,6 @@ Non Shiny
 @       Growlithe|Lvl 100|31|23|18|24|29|26|Fire     |
 @       Growlithe|Lvl 100|29|22|15|10|31|27|Grass    |
 @       Growlithe|Lvl 100|27|20|20|28|11|27|Water    |
-@        Arcanine|Lvl 100|22|23|18|29|11|31|Ice      |
 @        Arcanine|Lvl 100|19|25|11|12| 0| 4|Flying   |
 
 @        Arcanine|Lvl 100|13|31|10|18|13|31|Grass   *|70k / 150k
