@@ -23,7 +23,7 @@ Shiny
 @ Shiny    Seel|Lvl  29|22|28|27|31|24|21|Ghost    |150k
 @ Shiny    Seel|Lvl  28|28|27|31|29|23|30|Psychic  |300k
 @ Shiny    Seel|Lvl  28|25|21|20|26|21|28|Fire     |200k
-@ Shiny    Seel|Lvl  29|28|22|30|23|31|23|Ice      |300
+@ Shiny    Seel|Lvl  29|28|22|30|23|31|23|Ice      |300k
 @ Shiny Dewgong|Lvl 100|20|29|31|21|23|26|Psychic  |200k
 
 Non Shiny 28+
