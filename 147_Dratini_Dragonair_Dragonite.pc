@@ -18,12 +18,12 @@ Non Shiny
 @         Dratini|Lvl   9| 7| 3|10|12|15|10|Fire     |100k
 @         Dratini|Lvl   9|13|26| 3| 6|31|12|Fire     |100k
 @         Dratini|Lvl  10|16| 8|10|30|21| 3|Water    |100k
+@       Dragonite|Lvl 100|17|10| 5|14|26|27|Ground   |1.5m
 @         Dratini|Lvl   9|10|12| 1|31| 8|28|Rock     |100k
 @         Dratini|Lvl  28| 1|20| 2|25|29|24|Electric |250k
 @         Dratini|Lvl  27|10|10| 4|21| 1|31|Ice      |400k
 @         Dratini|Lvl  31|23|21| 6|24| 8|30|Fighting |800k
 @         Dratini|Lvl  31|11| 6|13| 1| 5| 0|Psychic  |50k
-@       Dragonite|Lvl 100|17|10| 5|14|26|27|Ground   |1.5m
 @       Dragonite|Lvl  82| 9| 2|26|24|30|11|Poison   |300k
 @       Dragonite|Lvl 100|16|24|24| 5|28|13|Bug      |1.3m
 
