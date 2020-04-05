@@ -15,9 +15,8 @@ Price check rules:
 		       > @       Caterpie|Lvl  15|25|25|28|20|27|27|Grass    |+100k / 200m
            This allows to support a price placed by someone else,
            if more then one price is present the one with more + will be taken in consideration
-           if there are several prices with the same number of + the leftmost will be taken into consideration
 	   
-        4. The hidden power must be taken into consideration if and only if it is beneficial for the pokémon in question
+        4. The hidden power must be taken into consideration if and only if it is beneficial for the pokémon
            (Add * after the hidden power to show that it is taken in consideration while pricing)
            
         5. If the pokémon has no value you can just remove the @ instead of putting a price 0
@@ -31,8 +30,6 @@ Additional informations:
                 Non Shiny 20+
                 Non Shiny
                 Epic Fail
-                
-        This allows to reduce the search field of the algorithm
-        and allows to achieve better results since we do not have an infinite number of data at our disposal.
-        
+		Test data
+		
         -> If you have any additional suggestion let me know
