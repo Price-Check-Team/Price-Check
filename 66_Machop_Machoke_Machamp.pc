@@ -1,0 +1,30 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Machop |Lvl  33|27|30|26|30|29|21|Water    |
+@ Shiny Machop |Lvl  35|30|29|28|23|26|24|Rock     |
+@ Shiny Machoke|Lvl  33|21|21|26|20|28|25|Poison   |
+@ Shiny Machoke|Lvl  35|20|31|22|24|27|26|Fire     |
+@ Shiny Machoke|Lvl  33|24|28|24|24|31|22|Steel    |
+@ Shiny Machoke|Lvl  35|30|27|28|28|22|25|Poison   |
+@ Shiny Machoke|Lvl  32|25|29|25|30|27|31|Electric |
+@ Shiny Machoke|Lvl  32|27|30|23|21|27|22|Psychic  |
+@ Shiny Machoke|Lvl  32|30|28|27|24|20|28|Fighting |
+@ Shiny Machoke|Lvl  31|27|22|20|27|28|30|Rock     |
+@ Shiny Machoke|Lvl  54|23|24|29|29|30|23|Ghost    |
+@ Shiny Machoke|Lvl  33|20|20|30|20|28|30|Fighting |
+@ Shiny Machoke|Lvl  50|27|21|28|29|28|26|Rock     |
+@ Shiny Machoke|Lvl  55|26|23|21|24|28|26|Flying   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Machoke|Lvl  86|10|22|17|10|19|24|Fire     |
+
+Epic Fail
+
+Test data
