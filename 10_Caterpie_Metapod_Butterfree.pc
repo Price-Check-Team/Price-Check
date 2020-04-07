@@ -41,6 +41,7 @@ Non Shiny
 @       Caterpie  |Lvl   5|18|28|10|22| 7|31|Water    |
 @       Caterpie  |Lvl   5|26| 3|16|31|10|28|Rock     |
 @       Caterpie  |Lvl   5| 8|24|21|28|21|21|Grass    |
+@       Butterfree|Lvl  46| 3| 6|21|10|11|27|Grass    |
 
 Epic Fail
 @       Caterpie  |Lvl   5| 2| 4| 2| 8| 4| 6|Fighting |
