@@ -1,0 +1,30 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Pikachu|Lvl  25|26|16|20|20|18|19|Flying   |
+@       Pikachu|Lvl  25|13| 1|26|23|12|28|Rock     |
+@       Pikachu|Lvl  27|23|15|25|10|10|28|Flying   |
+@       Pikachu|Lvl  27| 0|23|20|29|30|14|Rock     |
+@       Pikachu|Lvl  25|22|28|21|30|16| 5|Poison   |
+@       Pikachu|Lvl  25|22|31|12| 4|13|25|Grass    |
+@       Pikachu|Lvl  26|31| 8|20|31|21| 7|Ice      |
+@       Pikachu|Lvl  25|14|16|29|30| 8|14|Fighting |
+@       Pikachu|Lvl  25|13| 2|24|24| 4|16|Fighting |
+@       Pikachu|Lvl  26|31|12| 1| 0|22|27|Ground   |
+@       Pikachu|Lvl  26| 5| 9|17|27|24|18|Bug      |
+@       Pikachu|Lvl  26|28|11| 2|19|25|31|Ice      |
+@       Pikachu|Lvl  27|17|21|13| 4| 0|30|Flying   |
+@       Raichu |Lvl 100|26|13|31|26|18|21|Ground   |
+@       Raichu |Lvl  51|12|15|23|31|10|31|Steel    |
+
+Epic Fail
+
+Test data
