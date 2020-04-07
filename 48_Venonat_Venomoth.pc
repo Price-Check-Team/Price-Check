@@ -1,0 +1,26 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Venonat |Lvl  30|25|20|29|20|23|27|Grass    |
+@ Shiny Venonat |Lvl  27|21|23|28|21|30|30|Rock     |
+@ Shiny Venonat |Lvl  27|23|26|27|28|20|30|Flying   |
+@ Shiny Venonat |Lvl  31|23|29|21|28|23|30|Water    |
+@ Shiny Venomoth|Lvl  61|25|23|23|26|25|22|Water    |
+@ Shiny Venomoth|Lvl  55|26|29|23|28|29|24|Water    |
+@ Shiny Venomoth|Lvl  53|22|29|21|24|30|29|Ground   |
+@ Shiny Venomoth|Lvl  62|20|20|23|30|29|26|Fire     |
+@ Shiny Venomoth|Lvl  60|30|28|20|20|28|29|Flying   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Venonat |Lvl  17|29|29|21|30|21|27|Electric |
+@       Venomoth|Lvl 100|21|25|27|21|24|31|Steel    |
+
+Non Shiny
+
+Epic Fail
+
+Test data
