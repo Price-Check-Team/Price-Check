@@ -22,7 +22,6 @@ Non Shiny
 @       Bellsprout|Lvl  12|23|16|28| 1|18|29|Bug      |
 @       Bellsprout|Lvl  11|20|26|24|20|12|22|Fighting |
 @       Bellsprout|Lvl  12|23|19|29|11|18|30|Bug      |
-@       Bellsprout|Lvl  11| 9| 2| 3| 2| 7| 2|Fire     |
 @       Bellsprout|Lvl  11|30|18|16|29|31|11|Ice      |
 @       Bellsprout|Lvl  11|25|26|18|17|23|24|Electric |
 @       Bellsprout|Lvl  12|25|31|18|18|26|11|Poison   |
