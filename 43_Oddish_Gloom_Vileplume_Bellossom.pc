@@ -18,7 +18,6 @@ Non Shiny
 @       Oddish   |Lvl  16|20|10|11|17|24|22|Rock     |
 @       Oddish   |Lvl  17|30| 3|15|22|25|15|Grass    |
 @       Oddish   |Lvl  17|19|15|14|10|15|12|Fire     |
-@       Oddish   |Lvl  15| 7| 3| 6| 0| 5| 6|Fire     |
 @       Oddish   |Lvl  17|20|23|26|21|14|28|Rock     |
 @       Oddish   |Lvl  17|27|26|28|19| 5|22|Electric |
 @       Oddish   |Lvl  17|27|17|12|12|27|17|Grass    |
@@ -43,5 +42,6 @@ Non Shiny
 @       Oddish   |Lvl  16|27|11|28|28|11|12|Fire     |
 
 Epic Fail
+@       Oddish   |Lvl  15| 7| 3| 6| 0| 5| 6|Fire     |
 
 Test data
