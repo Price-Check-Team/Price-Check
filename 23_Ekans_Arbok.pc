@@ -1,0 +1,55 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Ekans|Lvl  20|28|28|30|29|30|29|Bug      |
+
+Shiny
+@ Shiny Ekans|Lvl   8|29|21|25|25|21|31|Dark     |
+@ Shiny Ekans|Lvl  36|21|30|30|22|22|20|Fighting |
+@ Shiny Ekans|Lvl  39|23|23|25|23|26|23|Steel    |
+@ Shiny Ekans|Lvl   8|26|27|23|29|21|25|Dragon   |
+@ Shiny Arbok|Lvl  39|20|20|29|22|30|25|Poison   |
+@ Shiny Arbok|Lvl  22|23|25|24|31|22|28|Rock     |
+@ Shiny Arbok|Lvl  21|26|31|25|24|27|25|Grass    |
+@ Shiny Arbok|Lvl  23|25|27|20|25|27|25|Dragon   |
+@ Shiny Arbok|Lvl  40|28|22|31|27|24|22|Rock     |
+@ Shiny Arbok|Lvl  43|24|21|28|30|30|25|Poison   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Ekans|Lvl   7|10|24|31|24|25|21|Grass    |
+@       Ekans|Lvl   8| 2|27|20|22|22|25|Poison   |
+@       Ekans|Lvl   7|20|26|15|19|14|21|Ghost    |
+@       Ekans|Lvl   9|28|24|14|24|19|26|Steel    |
+@       Ekans|Lvl   7| 2|28|23|15|19|28|Psychic  |
+@       Ekans|Lvl   9|18|20|22|15|28|14|Ground   |
+@       Ekans|Lvl   9|13|24|11|14|16|14|Flying   |
+@       Ekans|Lvl   7|27|19|15| 4|14|22|Flying   |
+@       Ekans|Lvl   8|13|22|27|21|24|27|Ghost    |
+@       Ekans|Lvl   7|11|27| 9|25|26|23|Steel    |
+@       Ekans|Lvl   7|11|31|30| 9|30|20|Rock     |
+@       Ekans|Lvl   7|31| 9|31|13|11|24|Ice      |
+@       Ekans|Lvl   7|20|26|15| 1|19|30|Psychic  |
+@       Ekans|Lvl   7|22|20|24|28|11|24|Steel    |
+@       Ekans|Lvl   7|16|21|13|22|15|14|Water    |
+@       Ekans|Lvl   9|26|31| 2|22|23|28|Fire     |
+@       Ekans|Lvl   7|10|28|17|19|17|17|Dragon   |
+@       Ekans|Lvl   8|13|14|15|21|15|16|Psychic  |
+@       Ekans|Lvl   8|21|23|20|14|26|17|Poison   |
+@       Ekans|Lvl   8| 0|26|26|10|30|24|Fighting |
+@       Ekans|Lvl   8|10|20|22|22|18|16|Fighting |
+@       Ekans|Lvl   9|28|31| 8| 6|21|25|Grass    |
+@       Ekans|Lvl   9|27|14|21|14|23|29|Grass    |
+@       Ekans|Lvl   8|11|18|17|23|30|20|Bug      |
+@       Ekans|Lvl   9|15|24|30|29|10|18|Rock     |
+@       Ekans|Lvl   8|15|15|13|22|10|22|Flying   |
+@       Ekans|Lvl   9|29|22|12|18| 0|31|Poison   |
+@       Ekans|Lvl   9|13|23|26|12| 2|22|Fighting |
+@       Ekans|Lvl   8|21|18|30|28|24|30|Fighting |
+
+Epic Fail
+
+Test data
