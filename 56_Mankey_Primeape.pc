@@ -1,0 +1,43 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Mankey  |Lvl  32|27|21|27|31|21|23|Dark     |
+@ Shiny Mankey  |Lvl  34|30|20|27|21|24|22|Rock     |
+@ Shiny Mankey  |Lvl  33|31|27|26|25|26|25|Ghost    |
+@ Shiny Mankey  |Lvl  34|28|20|22|21|25|25|Ice      |
+@ Shiny Mankey  |Lvl  35|24|20|26|21|23|25|Ice      |
+@ Shiny Mankey  |Lvl   5|28|22|26|29|31|20|Electric |
+@ Shiny Mankey  |Lvl   5|31|25|30|21|31|21|Dragon   |
+@ Shiny Primeape|Lvl  35|30|29|23|29|21|31|Dragon   |
+@ Shiny Primeape|Lvl  35|30|27|28|23|29|26|Electric |
+@ Shiny Primeape|Lvl  32|20|20|26|23|30|27|Bug      |
+@ Shiny Primeape|Lvl  32|22|20|27|26|30|26|Fighting |
+@ Shiny Primeape|Lvl  35|29|28|25|21|20|29|Ghost    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Mankey  |Lvl   5|30|24|13|26|19|26|Fire     |
+@       Mankey  |Lvl   8|17|10|15|26|15|12|Fire     |
+@       Mankey  |Lvl   6|16|19|14|27| 9|29|Ice      |
+@       Mankey  |Lvl   6|23|31|30|12|11|13|Grass    |
+@       Mankey  |Lvl   6|29|31|13|10|15|30|Water    |
+@       Mankey  |Lvl   6|28|10|15| 6|26|23|Poison   |
+@       Mankey  |Lvl   6|28|26|18|23|21|20|Electric |
+@       Mankey  |Lvl   7|21|13|11|16|22|17|Ground   |
+@       Mankey  |Lvl   7|29|20|17|14|30|20|Flying   |
+@       Mankey  |Lvl   7|14|21|23| 5|19|31|Dragon   |
+@       Mankey  |Lvl   8|18|28|27|19| 2|29|Ghost    |
+@       Mankey  |Lvl   5| 0| 5| 8| 9| 4| 5|Ghost    |
+@       Mankey  |Lvl   5|18|30|10|26| 2|23|Flying   |
+@       Mankey  |Lvl   6|23|17|21|11|16|21|Steel    |
+@       Mankey  |Lvl   6|28|13| 1|25|22|26|Bug      |
+@       Mankey  |Lvl   8|11|23|29|17| 8|28|Bug      |
+
+Epic Fail
+
+Test data
