@@ -1,0 +1,49 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Sandshrew|Lvl  24|29|29|27|31|26|26|Bug      |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Sandshrew|Lvl  22| 4| 2| 5| 7| 0| 9|Ghost    |
+@       Sandshrew|Lvl  22| 9| 1| 3| 1| 6| 3|Steel    |
+@       Sandshrew|Lvl  29|31|20|20|19|17|30|Electric |
+@       Sandshrew|Lvl  12| 0|29|15|10|29|26|Water    |
+@       Sandshrew|Lvl  11|14|26|19|27|11|14|Psychic  |
+@       Sandshrew|Lvl  12|20|22|27|22|29| 4|Fire     |
+@       Sandshrew|Lvl  12|13|22| 2|18|26|20|Fighting |
+@       Sandshrew|Lvl  10|25|28|18| 9|20|30|Rock     |
+@       Sandshrew|Lvl  10|25|17|10|10|18|27|Poison   |
+@       Sandshrew|Lvl  11|17|30|30| 2|25|17|Water    |
+@       Sandshrew|Lvl  10|16|29|19|25|21|26|Psychic  |
+@       Sandshrew|Lvl  11|11|25|22|24|30|20|Fighting |
+@       Sandshrew|Lvl  10|23|23|15|12|18|19|Ground   |
+@       Sandshrew|Lvl  11|31|30|14|26|11|16|Steel    |
+@       Sandshrew|Lvl  12|24|29|27| 2|20|25|Ground   |
+@       Sandshrew|Lvl  12|29|29|15|14|25|28|Water    |
+@       Sandshrew|Lvl  11|19|28|31|16|16|13|Ground   |
+@       Sandshrew|Lvl  11| 5|30|26|29|25|20|Electric |
+@       Sandshrew|Lvl  11|20|24| 5|15|28|21|Ghost    |
+@       Sandshrew|Lvl  12|26|23|30|18| 3|13|Grass    |
+@       Sandshrew|Lvl  12|20|24|14|15|31|15|Ice      |
+@       Sandshrew|Lvl  12|21|18| 1|21|20|27|Ghost    |
+@       Sandshrew|Lvl  12|31|12|13|28|11|27|Grass    |
+@       Sandshrew|Lvl  11|19|25| 4|17|19|21|Dragon   |
+@       Sandshrew|Lvl  12|19|31| 7|22|12|27|Ground   |
+@       Sandshrew|Lvl  12|11|20|22| 0|16|22|Fighting |
+@       Sandshrew|Lvl  12|15|21|10|16| 9|26|Fire     |
+@       Sandshrew|Lvl  11|10|31|11|20| 6|17|Ground   |
+@       Sandshrew|Lvl  10|17|26| 7|27|19|28|Psychic  |
+@       Sandshrew|Lvl  12|11|19|31|31|10|22|Bug      |
+@       Sandshrew|Lvl  12|25|21|12|27|24| 8|Rock     |
+@       Sandshrew|Lvl  11|31|15|25| 6|20|25|Ground   |
+@       Sandshrew|Lvl  12|28|25|29|26|27|10|Water    |
+
+Epic Fail
+
+Test data
