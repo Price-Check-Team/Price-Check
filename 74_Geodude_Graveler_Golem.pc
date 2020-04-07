@@ -1,0 +1,35 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Geodude |Lvl  21|31|28|28|31|28|28|Rock     |
+@ Shiny Golem   |Lvl 100|29|29|31|28|31|28|Water    |
+@ Shiny Golem   |Lvl  41|28|28|28|28|28|28|Fighting |
+
+Shiny
+@ Shiny Geodude |Lvl   3|21|21|23|21|24|31|Steel    |
+@ Shiny Geodude |Lvl   8|22|21|28|20|26|28|Fighting |
+@ Shiny Geodude |Lvl   3|24|21|26|25|29|20|Electric |
+@ Shiny Geodude |Lvl   2|20|28|25|25|26|27|Ghost    |
+@ Shiny Geodude |Lvl   3|23|29|30|30|31|27|Grass    |
+@ Shiny Geodude |Lvl   2|26|29|27|29|24|25|Steel    |
+@ Shiny Geodude |Lvl  38|23|24|24|28|30|28|Fighting |
+@ Shiny Geodude |Lvl  32|28|26|23|29|25|29|Dragon   |
+@ Shiny Graveler|Lvl  44|31|25|20|24|22|31|Poison   |
+@ Shiny Graveler|Lvl  35|28|21|29|24|28|31|Ground   |
+@ Shiny Graveler|Lvl  34|30|24|30|24|25|20|Steel    |
+@ Shiny Graveler|Lvl  45|24|22|25|24|29|28|Fire     |
+@ Shiny Graveler|Lvl  35|23|21|25|31|22|20|Bug      |
+@ Shiny Graveler|Lvl  33|30|23|28|26|22|27|Poison   |
+@ Shiny Graveler|Lvl  50|25|31|27|31|29|21|Dark     |
+@ Shiny Graveler|Lvl  33|21|25|22|21|21|24|Psychic  |
+@ Shiny Graveler|Lvl  35|25|20|28|28|29|27|Water    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+
+Epic Fail
+
+Test data
