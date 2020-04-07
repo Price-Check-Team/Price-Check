@@ -1,0 +1,46 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Bellsprout|Lvl  11|19|31|21|12|24|18|Flying   |
+@       Bellsprout|Lvl  11|17|17|12|23|21|17|Dragon   |
+@       Bellsprout|Lvl  12|19|11|26|21|24|18|Rock     |
+@       Bellsprout|Lvl  11|13|15|24|14|15|26|Fire     |
+@       Bellsprout|Lvl  11|27|26| 7|24|12|30|Flying   |
+@       Bellsprout|Lvl  11|22|18| 9|22|18|28|Fighting |
+@       Bellsprout|Lvl  11|22|15|25|28|21|15|Grass    |
+@       Bellsprout|Lvl  11|26|16|31|26|14|20|Fighting |
+@       Bellsprout|Lvl  11|25|28|19|23| 6|19|Ghost    |
+@       Bellsprout|Lvl  11|11|13|24|31|15|28|Psychic  |
+@       Bellsprout|Lvl  12|23|16|28| 1|18|29|Bug      |
+@       Bellsprout|Lvl  11|20|26|24|20|12|22|Fighting |
+@       Bellsprout|Lvl  12|23|19|29|11|18|30|Bug      |
+@       Bellsprout|Lvl  11| 9| 2| 3| 2| 7| 2|Fire     |
+@       Bellsprout|Lvl  11|30|18|16|29|31|11|Ice      |
+@       Bellsprout|Lvl  11|25|26|18|17|23|24|Electric |
+@       Bellsprout|Lvl  12|25|31|18|18|26|11|Poison   |
+@       Bellsprout|Lvl  12|17|27|11|12|24|15|Ground   |
+@       Bellsprout|Lvl  11|19|21|15| 3|28|21|Steel    |
+@       Bellsprout|Lvl  12|16|27|27|11| 4|28|Bug      |
+@       Bellsprout|Lvl  11|20|16|11|11|10|15|Ghost    |
+@       Bellsprout|Lvl  11|31|27|27|31|17|20|Ice      |
+@       Bellsprout|Lvl  11|22|27|13|24|13|29|Grass    |
+@       Bellsprout|Lvl  12|11|18|14|26|12|25|Poison   |
+@       Bellsprout|Lvl  11|20|25|15| 4|19|31|Grass    |
+@       Bellsprout|Lvl  12|28|26|17|21|17|22|Psychic  |
+@       Bellsprout|Lvl  11|26|29|20|16|23|13|Grass    |
+@       Bellsprout|Lvl  12|23| 4|17|23|23|24|Psychic  |
+@       Bellsprout|Lvl  12|10|26|16|22|21|26|Steel    |
+@       Bellsprout|Lvl  11|28|28| 3|22|20|19|Poison   |
+
+Epic Fail
+@       Bellsprout|Lvl  11| 9| 2| 3| 2| 7| 2|Fire     |
+
+Test data
