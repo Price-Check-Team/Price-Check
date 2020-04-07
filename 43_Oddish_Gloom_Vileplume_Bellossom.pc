@@ -1,0 +1,47 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Oddish   |Lvl  17|26|30|20|24|28|22|Fighting |
+@       Oddish   |Lvl  16|25|24|31|31|21|20|Psychic  |
+
+Non Shiny
+@       Oddish   |Lvl  22|21|24|12|12|23|28|Steel    |
+@       Oddish   |Lvl  17|31|27|19| 8|15|29|Electric |
+@       Oddish   |Lvl  16|18|23|29|20|18|27|Ground   |
+@       Oddish   |Lvl  16|23|28|10|14|15|31|Water    |
+@       Oddish   |Lvl  16|20|10|11|17|24|22|Rock     |
+@       Oddish   |Lvl  17|30| 3|15|22|25|15|Grass    |
+@       Oddish   |Lvl  17|19|15|14|10|15|12|Fire     |
+@       Oddish   |Lvl  15| 7| 3| 6| 0| 5| 6|Fire     |
+@       Oddish   |Lvl  17|20|23|26|21|14|28|Rock     |
+@       Oddish   |Lvl  17|27|26|28|19| 5|22|Electric |
+@       Oddish   |Lvl  17|27|17|12|12|27|17|Grass    |
+@       Oddish   |Lvl  15|15|29|28|29|12|24|Rock     |
+@       Oddish   |Lvl  17|19|25|10|22|26|16|Fighting |
+@       Oddish   |Lvl  15|17|21|16|11|10|29|Ghost    |
+@       Oddish   |Lvl  15|22|26| 4|28|30|27|Flying   |
+@       Oddish   |Lvl  17|31|17|25|18|17|29|Electric |
+@       Oddish   |Lvl  17|26|16|19|31|19|14|Psychic  |
+@       Oddish   |Lvl  15|13|15|31|11|12|21|Steel    |
+@       Oddish   |Lvl  15|10|14|17|10|26|15|Poison   |
+@       Oddish   |Lvl  15|12|14|11|31|31|16|Psychic  |
+@       Oddish   |Lvl  16|25|24|21|12|12|19|Ground   |
+@       Oddish   |Lvl  17|28|16| 6|20|31|20|Steel    |
+@       Oddish   |Lvl  16|29|25|17|17|28|10|Bug      |
+@       Oddish   |Lvl  17|22|16|25|28|21|18|Fire     |
+@       Oddish   |Lvl  15|26|15|12|30|22|23|Poison   |
+@       Oddish   |Lvl  15| 5|31|19|30|20|30|Flying   |
+@       Oddish   |Lvl  15|20|15|25|30| 8|23|Ground   |
+@       Oddish   |Lvl  15|18|27|16|20|18|30|Fighting |
+@       Oddish   |Lvl  17|29|27|22|12|11|12|Fire     |
+@       Oddish   |Lvl  16|27|11|28|28|11|12|Fire     |
+
+Epic Fail
+
+Test data
