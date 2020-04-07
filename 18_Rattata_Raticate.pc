@@ -1,0 +1,56 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Rattata |Lvl   7|30|28|30|29|29|29|Ice      |
+@ Shiny Rattata |Lvl   4|30|28|29|31|28|29|Ghost    |
+@ Shiny Rattata |Lvl   5|28|28|29|30|31|30|Fire     |
+@ Shiny Rattata |Lvl   3|29|28|29|29|29|28|Psychic  |
+@ Shiny Raticate|Lvl  24|28|28|28|28|28|28|Fighting |
+@ Shiny Raticate|Lvl 100|30|29|28|30|30|29|Poison   |
+
+Shiny
+@ Shiny Rattata |Lvl  33|22|24|31|27|20|29|Ghost    |
+@ Shiny Rattata |Lvl  31|26|28|25|25|28|28|Rock     |
+@ Shiny Rattata |Lvl  34|20|21|22|30|26|31|Poison   |
+@ Shiny Raticate|Lvl  58|25|22|23|20|20|22|Flying   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Rattata |Lvl   2|31|23|21|30|20|24|Flying   |
+
+Non Shiny
+@       Rattata |Lvl   2|26|14|29| 2|19|27|Grass    |
+@       Rattata |Lvl   2|29|12|24|25|30|28|Rock     |
+@       Rattata |Lvl   3|17|15|23|21| 4|29|Steel    |
+@       Rattata |Lvl   2|31|31|25|31|28| 1|Steel    |
+@       Rattata |Lvl   2|11|14| 3|26|15|24|Fire     |
+@       Rattata |Lvl   2| 0|21|19|11| 8|26|Bug      |
+@       Rattata |Lvl   2|20|29|31|16|12|26|Flying   |
+@       Rattata |Lvl   2|17|12|29|25|26|30|Bug      |
+@       Rattata |Lvl   2|28|10|12|14|17|26|Steel    |
+@       Rattata |Lvl   3|16|31|17|14|23|23|Grass    |
+@       Rattata |Lvl   3|23|23|25|12|28|23|Ground   |
+@       Rattata |Lvl   2|19|24|22|22| 9|23|Water    |
+@       Rattata |Lvl   2|13|10|14|31|30|12|Rock     |
+@       Rattata |Lvl   3| 9|27|31| 5|21|26|Ice      |
+@       Rattata |Lvl   3|13|15|26| 6|29|29|Grass    |
+@       Rattata |Lvl   3|24|25|10| 5|31|29|Ice      |
+@       Rattata |Lvl   3|21|18|14|17|18|17|Bug      |
+@       Rattata |Lvl   3|21|29|11|29|31|28|Ice      |
+@       Rattata |Lvl   2|19|18| 0|13|16|29|Bug      |
+@       Rattata |Lvl   2|16|11|25|16|25|31|Grass    |
+@       Rattata |Lvl   2|24|27| 5|21|23|21|Dragon   |
+@       Rattata |Lvl   2|24|29| 5|31|22|27|Steel    |
+@       Rattata |Lvl   3|30|29|30|28|18|14|Fighting |
+@       Rattata |Lvl   3|18|24|10|26| 0|24|Fighting |
+@       Rattata |Lvl   3|25|22|27|23|31|19|Dragon   |
+@       Rattata |Lvl   3|26|10|24|21|30|12|Ground   |
+@       Rattata |Lvl   3|13|13|31|29|12|21|Steel    |
+@       Rattata |Lvl   2|11|15|10|23|23|31|Dragon   |
+@       Rattata |Lvl   3|22|10|28|31|26|15|Bug      |
+@       Rattata |Lvl   3|19|12|29|19|11|14|Psychic  |
+
+Epic Fail
+
+Test data
