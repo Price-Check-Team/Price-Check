@@ -1,0 +1,16 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Venusaur |Lvl  34|30| 3|20|11|13|14|Electric |
+
+Epic Fail
+
+Test data
