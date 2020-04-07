@@ -8,8 +8,24 @@ Shiny
 Non Shiny 28+
 
 Non Shiny 20+
+@       Scyther|Lvl  31|21|24|28|28|26|28|Fighting |
 
 Non Shiny
+@       Scyther|Lvl  29|16|11|16|19|30| 4|Rock     |
+@       Scyther|Lvl  31|20|16| 2|17|26|11|Bug      |
+@       Scyther|Lvl  30|25|30|29|14| 2| 2|Flying   |
+@       Scyther|Lvl  30|18| 6|27|19| 2|13|Ghost    |
+@       Scyther|Lvl  31|19| 6|30|24|21| 7|Water    |
+@       Scyther|Lvl  27| 9|22|21| 2|21|30|Fire     |
+@       Scyther|Lvl  28|22|10|16|10|31| 4|Steel    |
+@       Scyther|Lvl  27|30|27|15|17|18|10|Bug      |
+@       Scyther|Lvl  27|21|27|25|27|16| 7|Steel    |
+@       Scyther|Lvl  27|15|28|22|20| 7|25|Water    |
+@       Scyther|Lvl  30|13|23|22|22| 4|24|Fighting |
+@       Scyther|Lvl  30|27|12|26|20|23|24|Steel    |
+@       Scyther|Lvl  30|21|11|14|28|17|22|Fire     |
+@       Scyther|Lvl  27|30|25|15|31|31| 9|Dragon   |
+
 @       Scyther|Lvl  15|17|30|23|29|26|28|Bug      |
 @       Scyther|Lvl  30|31|28|26|21|14|31|Bug      |
 @       Scyther|Lvl  30|28|21|29|30|19|23|Grass    |
