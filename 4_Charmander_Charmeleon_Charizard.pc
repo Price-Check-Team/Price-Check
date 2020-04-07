@@ -1,0 +1,17 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Charizard |Lvl 100|10|12|24|28|19|26|Steel    |
+@       Charizard |Lvl 100|15|26|24| 6|14|25|Poison   |
+
+Epic Fail
+
+Test data
