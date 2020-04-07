@@ -10,6 +10,32 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Exeggcute|Lvl  29| 0|29|23|27|25|22|Psychic  |
+@       Exeggcute|Lvl  29|17| 6|18|20|20|23|Poison   |
+@       Exeggcute|Lvl  30|25|12|14|24|29|13|Water    |
+@       Exeggcute|Lvl  30|14|30| 7|25|15|11|Dragon   |
+@       Exeggcute|Lvl  29|21|17|30| 9|29|26|Psychic  |
+@       Exeggcute|Lvl  28|27|27| 3|21|24| 6|Bug      |
+@       Exeggcute|Lvl  29|23| 8|16|12| 3|23|Water    |
+@       Exeggcute|Lvl  28| 5|22|29| 7| 4| 4|Bug      |
+@       Exeggcute|Lvl  30|24|22|24|13|30|23|Bug      |
+@       Exeggcute|Lvl  30|30|26|26|17|24|15|Bug      |
+@       Exeggcute|Lvl  31|10|12|13|13|22|28|Rock     |
+@       Exeggcute|Lvl  30|25|13| 1|16|31|24|Water    |
+@       Exeggcute|Lvl  27|27| 4|30|24|12|12|Fighting |
+@       Exeggcute|Lvl  31|23|30|24|28|15|13|Water    |
+@       Exeggcute|Lvl  29|31| 7| 1|26|12|21|Ground   |
+@       Exeggcute|Lvl  31|18|13| 0|13|22|10|Rock     |
+@       Exeggcute|Lvl  31|26|31|31|23|28|14|Bug      |
+@       Exeggcute|Lvl  27|11|12|24|15|23|13|Ice      |
+@       Exeggcute|Lvl  29| 5|31|16|24|11|29|Grass    |
+@       Exeggcute|Lvl  29|19|29|15|19|24|20|Bug      |
+@       Exeggcute|Lvl  28| 8|26|30|25|29|24|Electric |
+@       Exeggcute|Lvl  28|12|14|24|27|23| 9|Ice      |
+@       Exeggcute|Lvl  28|28|31|10|20|31|22|Fire     |
+@       Exeggcute|Lvl  29|29|29| 2|23|20|21|Ghost    |
+@       Exeggcute|Lvl  31|29| 4|31|26|18|18|Flying   |
+
 @       Exeggcute|Lvl  27|29|29|31|10|26|26|Flying   |
 @       Exeggcute|Lvl  27|31|27|25|22|30|15|Ground   |
 @       Exeggcute|Lvl  29|16|28|30|24|30|22|Fighting |
