@@ -1,0 +1,34 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Lickitung |Lvl  29|29|28|20|30|27|21|Water    |
+@ Shiny Lickitung |Lvl  29|23|29|31|28|23|28|Water    |
+@ Shiny Lickitung |Lvl  30|30|24|30|28|31|23|Water    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Lickitung |Lvl  28|17|26|31|26|29|22|Fire     |
+@       Lickitung |Lvl  29|26|18|29|29|10|29|Ghost    |
+@       Lickitung |Lvl  28|26|28|25|25|10|16|Rock     |
+@       Lickitung |Lvl  29|26|30|22|10|26|15|Flying   |
+@       Lickitung |Lvl  29|30|15|11|31|19|18|Psychic  |
+@       Lickitung |Lvl  29|16|24|10|31|12|31|Bug      |
+@       Lickitung |Lvl  29|21|30| 5|18|22|26|Flying   |
+@       Lickitung |Lvl  31|10|23| 8|28|20|27|Poison   |
+@       Lickitung |Lvl  30|26|11|27|17|13|24|Psychic  |
+@       Lickitung |Lvl  30|14|26|26|20|15|10|Steel    |
+@       Lickitung |Lvl  31|21|15|20|20| 9|31|Grass    |
+@       Lickitung |Lvl  30|20|19|18|26|29| 9|Grass    |
+@       Lickitung |Lvl  30|15|11|12|25|11|23|Dragon   |
+@       Lickitung |Lvl  31| 5|16|30|12|26|29|Poison   |
+@       Lickitung |Lvl  29|15|18|30|26|11|23|Water    |
+@       Lickitung |Lvl  31| 2|14|27|27|22|31|Ghost    |
+
+Epic Fail
+
+Test data
