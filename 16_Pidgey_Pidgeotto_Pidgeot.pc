@@ -1,0 +1,52 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Pidgeot  |Lvl  80|30|28|31|29|31|29|Dragon   |
+
+Shiny
+@ Shiny Pidgey   |Lvl   2|27|27|23|23|30|31|Steel    |
+@ Shiny Pidgey   |Lvl  32|27|26|25|23|26|24|Bug      |
+@ Shiny Pidgey   |Lvl   3|28|29|25|21|30|21|Steel    |
+@ Shiny Pidgey   |Lvl  33|31|21|27|28|26|25|Ground   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Pidgey   |Lvl  23|20|25|29|26|19|30|Water    |
+@       Pidgey   |Lvl   3| 8|31|10|18|12|28|Fighting |
+@       Pidgey   |Lvl   2|16|21|29|13|16|23|Steel    |
+@       Pidgey   |Lvl   2| 7|27|26|13|24|18|Rock     |
+@       Pidgey   |Lvl   2|12|28| 5|18|26|29|Poison   |
+@       Pidgey   |Lvl   3|12|19|11|25|27|19|Dragon   |
+@       Pidgey   |Lvl   3|11|18|24|26|28|21|Poison   |
+@       Pidgey   |Lvl   3|25|14|18|31|21|16|Electric |
+@       Pidgey   |Lvl   3|14|25| 1|16|17|23|Grass    |
+@       Pidgey   |Lvl   3| 7|23|19|12|30|21|Ground   |
+@       Pidgey   |Lvl   3|16|21|28|13| 5|25|Ice      |
+@       Pidgey   |Lvl   3|26|29|21|16| 4|22|Flying   |
+@       Pidgey   |Lvl   3|28|29|29| 7|26|10|Bug      |
+@       Pidgey   |Lvl   2|14|29|16|19|17|15|Ice      |
+@       Pidgey   |Lvl   2|22|20|10|11|29|24|Electric |
+@       Pidgey   |Lvl   2|25|27|12|15|20|17|Ghost    |
+@       Pidgey   |Lvl   3|26|22|17|14|16|24|Fighting |
+@       Pidgey   |Lvl   2|30|24|25|26| 2|18|Fighting |
+@       Pidgey   |Lvl   2|25|15|13|13| 1|20|Ice      |
+@       Pidgey   |Lvl   3|25|11| 4|29|23|20|Psychic  |
+@       Pidgey   |Lvl   3|13|17|13|28|29|21|Electric |
+@       Pidgey   |Lvl   3|20|17|19|26|20|21|Ground   |
+@       Pidgey   |Lvl   2|25|16|15| 5|14|23|Ghost    |
+@       Pidgey   |Lvl   2|15|13|20|12| 1|26|Fire     |
+@       Pidgey   |Lvl   3|10|19|21|26|10|25|Ground   |
+@       Pidgey   |Lvl   2|11|12|26|20|22|14|Fighting |
+@       Pidgey   |Lvl   2|25|24| 2|20|30|21|Poison   |
+@       Pidgey   |Lvl   3|24|29| 7|28|29|30|Water    |
+@       Pidgey   |Lvl   2|31|14|21|31|24|31|Ghost    |
+@       Pidgey   |Lvl   2|17|17|20|24|22|30|Fighting |
+@       Pidgey   |Lvl   3| 5|20|26|12| 4|31|Poison   |
+@       Pidgey   |Lvl   3|27|13|18|26|10|15|Poison   |
+
+Epic Fail
+
+Test data
