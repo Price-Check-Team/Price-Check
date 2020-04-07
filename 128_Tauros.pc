@@ -12,6 +12,15 @@ Non Shiny 20+
 @       Tauros|Lvl  30|22|25|25|21|25|22|Psychic  |
 
 Non Shiny
+@       Tauros|Lvl  27| 6|18|22|11|27|24|Electric |
+@       Tauros|Lvl  30|27|18|16| 8| 9|23|Water    |
+@       Tauros|Lvl  29|28|18|25|31| 6| 2|Rock     |
+@       Tauros|Lvl  28|28|16| 0|13|29|30|Electric |
+@       Tauros|Lvl  27|16|22|28|22|18|18|Fighting |
+@       Tauros|Lvl  28| 5|23|13|20|28|24|Flying   |
+@       Tauros|Lvl  31| 6|12|24|24|17|29|Water    |
+@       Tauros|Lvl  28| 4|18|27|18|13|14|Fire     |
+
 @       Tauros|Lvl  29|30|28|15|30|14|29|Poison   |
 @       Tauros|Lvl  28|24|25|25|25|19|27|Dragon   |
 @       Tauros|Lvl  30|27|10|25|30|26|25|Ground   |
