@@ -1,0 +1,20 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Buizel  |Lvl  14|26|23|14|21|13|28|Electric |
+@       Buizel  |Lvl  15|13| 1| 1|22|11|27|Electric |
+@       Buizel  |Lvl  16| 8| 2| 8|19|15|25|Ice      |
+@       Buizel  |Lvl  16|13|23|23|21|30|24|Bug      |
+@       Floatzel|Lvl 100|12|26| 3|30|18|25|Poison   |
+
+Epic Fail
+
+Test data
