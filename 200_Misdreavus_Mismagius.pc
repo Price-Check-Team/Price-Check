@@ -1,0 +1,21 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Misdreavus|Lvl  27|28|30|28|28|28|29|Flying   |
+
+Shiny
+@ Shiny Misdreavus|Lvl  28|28|20|22|30|31|31|Water    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Misdreavus|Lvl   9|16|26|29|19|28|28|Rock     |
+@       Misdreavus|Lvl  10|24|29|23|16|25|26|Water    |
+@       Misdreavus|Lvl  29|19|22|31|28|23|19|Grass    |
+@       Misdreavus|Lvl 100|26|19|17|20|26|28|Flying   |
+
+Epic Fail
+
+Test data
