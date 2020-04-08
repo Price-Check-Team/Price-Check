@@ -1,0 +1,25 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Poochyena|Lvl  24|30|24|22|24|30|23|Flying   |
+@ Shiny Poochyena|Lvl  25|30|20|30|30|26|26|Fighting |
+@ Shiny Poochyena|Lvl  23|22|25|20|30|23|20|Fire     |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Poochyena|Lvl  25|28|22|18|31|31|25|Ice      |
+@       Poochyena|Lvl  23|25|28|17|25|29|28|Psychic  |
+@       Poochyena|Lvl  25|31|28|31|19|27|16|Psychic  |
+@       Poochyena|Lvl  24|30|27|11|30|29|24|Water    |
+@       Poochyena|Lvl  24|27|12|28|21|30|31|Bug      |
+@       Poochyena|Lvl  24|29|29|15|28|16|30|Flying   |
+@       Poochyena|Lvl  23|10|26|30|14|14|31|Flying   |
+
+Epic Fail
+
+Test data
