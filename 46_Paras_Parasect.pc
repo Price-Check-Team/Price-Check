@@ -1,0 +1,26 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Parasect|Lvl  70|28|31|29|28|28|29|Ground   |
+
+Shiny
+@ Shiny Paras   |Lvl  29|29|22|21|20|30|31|Ground   |
+@ Shiny Paras   |Lvl  31|22|22|25|21|23|29|Dragon   |
+@ Shiny Paras   |Lvl  29|27|24|26|22|28|25|Poison   |
+@ Shiny Paras   |Lvl  27|23|23|22|24|23|30|Fire     |
+@ Shiny Paras   |Lvl  29|22|26|25|30|29|25|Grass    |
+@ Shiny Paras   |Lvl  28|25|31|30|30|29|24|Fire     |
+@ Shiny Parasect|Lvl  46|22|22|30|20|29|30|Steel    |
+@ Shiny Parasect|Lvl  48|23|24|21|28|27|21|Grass    |
+@ Shiny Parasect|Lvl  49|26|21|25|23|21|30|Psychic  |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Parasect|Lvl  41|12|31|19|22|28|18|Flying   |
+
+Epic Fail
+
+Test data
