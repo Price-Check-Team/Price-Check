@@ -1,0 +1,21 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Wobbuffet|Lvl  48|29|27|21|31|14|24|Bug      |
+@       Wobbuffet|Lvl  43|30|28|25|27|18|15|Ghost    |
+@       Wobbuffet|Lvl  43|29|13|28|15|30|24|Rock     |
+@       Wobbuffet|Lvl  47|18|15|26|26|13|31|Grass    |
+@       Wobbuffet|Lvl  50|14|22|28|27|15|22|Electric |
+@       Wobbuffet|Lvl  43|21|22|31|10|15|20|Fire     |
+
+Epic Fail
+
+Test data
