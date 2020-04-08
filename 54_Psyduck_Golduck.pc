@@ -1,0 +1,23 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Psyduck|Lvl  13|31|20|20|26|20|27|Poison   |
+@ Shiny Golduck|Lvl  58|23|27|25|20|27|31|Electric |
+@ Shiny Golduck|Lvl  50|22|31|29|28|26|21|Ground   |
+@ Shiny Golduck|Lvl  61|31|21|29|31|24|27|Steel    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Psyduck|Lvl   1|28|13|31|11|21|10|Psychic  |
+@       Psyduck|Lvl   1|11|27|12|21|28|15|Ghost    |
+@       Psyduck|Lvl   1|20|22|12|18|30|27|Flying   |
+@       Golduck|Lvl  40|16|30|26|15|23|28|Electric |
+
+Epic Fail
+
+Test data
