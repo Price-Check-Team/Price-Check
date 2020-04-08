@@ -1,0 +1,19 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+@ Shiny Abra    |Lvl  22|29|31|29|28|31|28|Water    |
+
+Shiny
+@ Shiny Abra    |Lvl  30|26|23|31|21|23|30|Psychic  |
+@ Shiny Abra    |Lvl  31|28|27|22|27|22|23|Ghost    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Abra    |Lvl  10|30|22|31|23|18|26|Rock     |
+
+Epic Fail
+
+Test data
