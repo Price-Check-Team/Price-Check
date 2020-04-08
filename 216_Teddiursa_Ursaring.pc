@@ -1,0 +1,22 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Teddiursa|Lvl  20|23|31|25|25|27|26|Ice      |
+@ Shiny Teddiursa|Lvl  23|29|31|24|27|24|20|Rock     |
+@ Shiny Teddiursa|Lvl  21|27|27|30|21|25|22|Psychic  |
+@ Shiny Teddiursa|Lvl  22|31|28|21|21|20|24|Bug      |
+@ Shiny Teddiursa|Lvl  23|26|20|28|29|20|27|Bug      |
+@ Shiny Ursaring |Lvl  36|27|27|20|21|29|31|Dragon   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Teddiursa|Lvl  53|17|26|11|15|11|16|Psychic  |
+
+Epic Fail
+
+Test data
