@@ -1,0 +1,21 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Abomasnow|Lvl  66|25| 6|23|22|24|17|Ground   |
+@       Abomasnow|Lvl  76|26|20|23|11|20|10|Rock     |
+@       Abomasnow|Lvl  68| 2|24|20|24|26| 9|Flying   |
+@       Abomasnow|Lvl  67| 4|25| 2|11|30|27|Ghost    |
+@       Abomasnow|Lvl  64|29|22| 1|22| 0|22|Flying   |
+@       Abomasnow|Lvl  67|17| 0|30| 8| 4|31|Poison   |
+
+Epic Fail
+
+Test data
