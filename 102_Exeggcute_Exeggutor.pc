@@ -3,7 +3,7 @@ Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 Shiny 28+
 
 Shiny
-@ Shiny Exeggcute|Lvl  27|20|23|28|21|30|27|Ghost    |
+@ Shiny Exeggcute|Lvl  27|20|23|28|21|30|27|Ghost    |30m
 
 Non Shiny 28+
 
