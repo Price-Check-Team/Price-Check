@@ -1,0 +1,20 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Kabuto  |Lvl   5|12|27|18|11|25|27|Ice      |
+@       Kabuto  |Lvl   5|23|16|20|17|23|21|Ice      |
+@       Kabuto  |Lvl   5|26|14|13| 7|21|14|Psychic  |
+@       Kabuto  |Lvl   5| 9|25| 9|19|26|20|Bug      |
+@       Kabuto  |Lvl   5| 5|31|21| 2|27|21|Electric |
+
+Epic Fail
+
+Test data
