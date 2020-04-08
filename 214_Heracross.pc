@@ -1,0 +1,23 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Heracross|Lvl  15|29|14|14|31|19|30|Electric |
+@       Heracross|Lvl  34|29|15|22|25|22|19|Ghost    |
+@       Heracross|Lvl  14|27|10|27|17|25|16|Psychic  |
+@       Heracross|Lvl  32|13|25|25|15|15|29|Dark     |
+@       Heracross|Lvl  34|17|17|28|18|21|12|Fire     |
+@       Heracross|Lvl  10|20|25|13|13|20|16|Bug      |
+@       Heracross|Lvl 100|28|12|19|21|23|27|Dragon   |
+@       Heracross|Lvl 100|23|15| 9|16| 4| 0|Flying   |
+
+Epic Fail
+
+Test data
