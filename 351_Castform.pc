@@ -1,0 +1,21 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Castform|Lvl  22|29|12|24|13|14|12|Rock     |
+@       Castform|Lvl  22|30|21|10|22| 2|25|Poison   |
+@       Castform|Lvl  23|28| 1|30|18|10|21|Poison   |
+@       Castform|Lvl  22|24|24| 7| 4|25|24|Fire     |
+@       Castform|Lvl  20| 8|29|16| 7|24|19|Ghost    |
+@       Castform|Lvl  23|26|25|15| 7|16|13|Steel    |
+
+Epic Fail
+
+Test data
