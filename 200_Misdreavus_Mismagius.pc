@@ -2,6 +2,7 @@ Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
 Shiny 28+
 @ Shiny Misdreavus|Lvl  27|28|30|28|28|28|29|Flying   |
+@ Shiny Mismagius |Lvl 100|30|29|31|28|28|28|Flying   |
 
 Shiny
 @ Shiny Misdreavus|Lvl  28|28|20|22|30|31|31|Water    |
