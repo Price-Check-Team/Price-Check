@@ -1,0 +1,19 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Lapras|Lvl  34|24|20|19|18|12|22|Fighting |
+@       Lapras|Lvl  33|12| 0|28| 8|23|17|Water    |
+@       Lapras|Lvl  32|26| 2|21| 3| 9|19|Dragon   |
+@       Lapras|Lvl  32|25|25|16|22| 6|28|Fighting |
+
+Epic Fail
+
+Test data
