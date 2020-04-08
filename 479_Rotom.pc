@@ -1,0 +1,20 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Rotom|Lvl  21|31| 9|22|22|18|23|Poison   |
+@       Rotom|Lvl  20|17| 8| 0|31|20|14|Rock     |
+@       Rotom|Lvl  20| 5|24| 9| 2|10|23|Ground   |
+@       Rotom|Lvl  20| 5| 4| 5|31|16| 4|Bug      |
+@       Rotom|Lvl  20| 7|30| 3| 7|10| 6|Bug      |
+
+Epic Fail
+
+Test data
