@@ -1,0 +1,25 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Duskull |Lvl  21|27|28|23|29|29|26|Psychic  |
+
+Non Shiny
+@       Duskull |Lvl  24|29|28|24|21|12|26|Rock     |
+@       Duskull |Lvl  22|30|21|14|25|24|23|Ghost    |
+@       Duskull |Lvl  24|16|26|24|26|19|18|Steel    |
+@       Duskull |Lvl  25|13|11|23|25|16|23|Steel    |
+@       Duskull |Lvl  23|17|21|13|17|15|29|Dark     |
+@       Duskull |Lvl  21|13|28|28| 4|23|27|Water    |
+@       Duskull |Lvl  23|10| 9|31|22|24|25|Ground   |
+@       Duskull |Lvl  23|31|30|15| 8|25|20|Fire     |
+@       Dusclops|Lvl 100|13|24|14|28|17|23|Water    |
+
+Epic Fail
+
+Test data
