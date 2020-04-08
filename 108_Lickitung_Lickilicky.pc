@@ -12,6 +12,8 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Lickilicky|Lvl  34|20|18|21|30|24|11|Poison   |
+
 @       Lickitung |Lvl  28|17|26|31|26|29|22|Fire     |
 @       Lickitung |Lvl  29|26|18|29|29|10|29|Ghost    |
 @       Lickitung |Lvl  28|26|28|25|25|10|16|Rock     |
