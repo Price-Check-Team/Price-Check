@@ -1,0 +1,21 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Slugma  |Lvl  22|20|23|30|23|28|28|Rock     |
+@ Shiny Slugma  |Lvl  20|28|22|20|31|31|20|Electric |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@ Shiny Slugma  |Lvl  22|20|23|30|23|28|28|Rock     |
+@ Shiny Slugma  |Lvl  20|28|22|20|31|31|20|Electric |
+@       Magcargo|Lvl  20|26|24|21|27|31|19|Dragon   |
+@       Magcargo|Lvl  32|21|23|30|31|29|14|Psychic  |
+
+Epic Fail
+
+Test data
