@@ -1,0 +1,19 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Porygon|Lvl  29|28|27|13|29|12|26|Bug      |
+@       Porygon|Lvl  28|26|31|20| 0|31|30|Fire     |
+@       Porygon|Lvl  28|26|24|25|20|19| 4|Fire     |
+@       Porygon|Lvl  56|31|10|31| 9| 4| 1|Ghost    |
+
+Epic Fail
+
+Test data
