@@ -1,0 +1,23 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Aipom  |Lvl  15|12|13|10|15|23|27|Ice      |
+@       Aipom  |Lvl  43|31|15|22|30|26|20|Fighting |
+@       Aipom  |Lvl  43|30|18|28|24|21|18|Steel    |
+@       Aipom  |Lvl  43|30|12|27|22|12|28|Fighting |
+@       Aipom  |Lvl  15|12|22|28|26|17|25|Water    |
+@       Aipom  |Lvl  42|11|18|17|29|25|21|Dragon   |
+@       Aipom  |Lvl  45|24|24| 9|19|28|26|Rock     |
+@       Aipom  |Lvl  44| 6|26|17|25|24|27|Ghost    |
+
+Epic Fail
+
+Test data
