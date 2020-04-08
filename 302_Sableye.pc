@@ -1,0 +1,23 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Sableye|Lvl  23|19|18|14|17|14|23|Bug      |
+@       Sableye|Lvl   8|10|15|14|28|31|31|Grass    |
+@       Sableye|Lvl 100|20| 2|22| 2|31|22|Steel    |
+@       Sableye|Lvl  10|20|12|29|28|18| 5|Poison   |
+@       Sableye|Lvl  10|13|14|28|17|30| 3|Bug      |
+@       Sableye|Lvl   9|27| 1|22|12|24|31|Poison   |
+@       Sableye|Lvl   7|30| 4|27|25|17|19|Dragon   |
+@       Sableye|Lvl   7|24|12|22| 8|16|11|Flying   |
+
+Epic Fail
+
+Test data
