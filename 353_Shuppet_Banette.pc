@@ -1,0 +1,22 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Shuppet|Lvl  23|17|31|15|30|27|19|Electric |
+@       Shuppet|Lvl  23|23|30|14|19|27|25|Ice      |
+@       Shuppet|Lvl  23|20|28|31|24|10|19|Poison   |
+@       Shuppet|Lvl  24|12|24|27|22|21|25|Grass    |
+@       Shuppet|Lvl  23|21|23|20|21|29|16|Psychic  |
+@       Shuppet|Lvl  24|21|27|20|11|13|31|Dragon   |
+@       Banette|Lvl 100|13|24|27|30|29|28|Fire     |
+
+Epic Fail
+
+Test data
