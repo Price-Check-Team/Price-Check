@@ -1,0 +1,28 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Skitty  |Lvl  31|27|29|29|30|28|26|Flying   |
+@ Shiny Skitty  |Lvl  31|29|25|21|30|31|23|Electric |
+@ Shiny Skitty  |Lvl  30|23|29|26|27|22|26|Rock     |
+@ Shiny Skitty  |Lvl  29|27|31|23|23|27|26|Ice      |
+@ Shiny Skitty  |Lvl  24|22|20|29|24|20|25|Poison   |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Skitty  |Lvl  30|23|14|23|26|25|28|Fire     |
+@       Skitty  |Lvl  29|15|30|30|22|15|27|Water    |
+@       Skitty  |Lvl  31|31|16|12|30|20|24|Fighting |
+@       Skitty  |Lvl  30|20|26|22|15|19|30|Electric |
+@       Skitty  |Lvl  26|28|29|31|15|15|13|Dragon   |
+@       Skitty  |Lvl  30|12|23|24|20|28|24|Fighting |
+@       Skitty  |Lvl  31|31|29|28| 9|19|28|Psychic  |
+@       Skitty  |Lvl  29|31|13|31| 4|31|26|Water    |
+
+Epic Fail
+
+Test data
