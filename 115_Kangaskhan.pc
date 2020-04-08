@@ -1,0 +1,25 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Kangaskhan|Lvl 100|25|22|31|20|25|24|Fire     |
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Kangaskhan|Lvl  29|24|19|29|24|12|19|Ground   |
+@       Kangaskhan|Lvl  28|24|19|26|15|15|11|Ice      |
+@       Kangaskhan|Lvl  27|14|17|23|18|24|13|Ground   |
+@       Kangaskhan|Lvl  28|12|14|23|17|18|22|Rock     |
+@       Kangaskhan|Lvl  28|31|26| 4|26|27|22|Steel    |
+@       Kangaskhan|Lvl  27|27|30|19|13| 0|22|Bug      |
+@       Kangaskhan|Lvl  27| 9|10|16|16| 9|14|Steel    |
+@       Kangaskhan|Lvl  30|17|13|16|24| 6|29|Poison   |
+@       Kangaskhan|Lvl  30| 9|23|29|26| 5|26|Water    |
+
+Epic Fail
+
+Test data
