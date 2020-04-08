@@ -1,0 +1,24 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+@ Shiny Pineco    |Lvl  28|30|29|24|27|20|29|Ghost    |
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Pineco    |Lvl  28|23|31|22|21|28|31|Ghost    |
+
+Non Shiny
+@       Pineco    |Lvl  29|31|12|24|26|14|31|Poison   |
+@       Pineco    |Lvl  29|25|30|22|11|27|16|Electric |
+@       Pineco    |Lvl  28|20|30|30|14|13|24|Steel    |
+@       Pineco    |Lvl  29|13|21|17|22|18|28|Flying   |
+@       Pineco    |Lvl  29|22| 4|24|20|29|21|Water    |
+@       Pineco    |Lvl  28|23|23| 2|31|31|15|Dragon   |
+@       Forretress|Lvl 100|10|24|31|21|22|19|Ghost    |
+
+Epic Fail
+
+Test data
