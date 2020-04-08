@@ -1,0 +1,20 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Clamperl|Lvl  30|24|11|25|21|30|19|Steel    |
+@       Clamperl|Lvl  30|13| 2|13| 3|18|31|Ghost    |
+@       Clamperl|Lvl  30| 7| 6| 8| 1|27| 0|Electric |
+@       Clamperl|Lvl  29| 6|10|29|18|23|24|Fire     |
+@       Clamperl|Lvl  29|11| 4|21|28|29| 5|Grass    |
+
+Epic Fail
+
+Test data
