@@ -1,0 +1,19 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+
+Non Shiny
+@       Swablu |Lvl   1|13|31|12|12|23|23|Grass    |
+@       Swablu |Lvl   1| 5|12|23|27| 1|24|Psychic  |
+@       Swablu |Lvl   1| 4|25|21|22| 9|24|Water    |
+@       Altaria|Lvl 100|25|21|18| 5|26|28|Rock     |
+
+Epic Fail
+
+Test data
