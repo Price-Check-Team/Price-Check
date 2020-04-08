@@ -1,8 +1,16 @@
 
 This space is dedicated to assign reasonable prices to the different pokémons
 
+
 Follow this to submit a pull request:
 https://ibb.co/svsQFhs
+1. Select the file you want to work with
+2. Click on the edit button
+3. Suggest one or more prices
+4. Click on Propose file change
+5. Click on Create pull request
+6. Enter a comment or leave the default content, then click on Create pull request
+
 
 Price check rules:
 	1. If the pokemons have no price assigned you can just add one
@@ -24,6 +32,7 @@ Price check rules:
            
         5. If the pokémon has no value you can just remove the @ instead of putting a price 0
            But that doesn't mean that cheap pokémons should be ignored
+
 
 Additional informations:
         Pokemon have been divided into the following categories
