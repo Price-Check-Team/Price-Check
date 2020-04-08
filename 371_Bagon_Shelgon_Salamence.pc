@@ -3,6 +3,7 @@ Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 Shiny 28+
 
 Shiny
+@ Shiny Bagon    |Lvl  40|21|29|20|27|25|23|Dragon   |
 
 Non Shiny 28+
 
