@@ -1,0 +1,23 @@
+Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
+
+Shiny 28+
+
+Shiny
+
+Non Shiny 28+
+
+Non Shiny 20+
+@       Numel   |Lvl  22|20|22|20|22|31|22|Steel    |
+
+Non Shiny
+@       Numel   |Lvl  20| 8| 9| 0| 3| 1| 2|Electric |
+@       Numel   |Lvl  22|21|23|14|13|24|20|Rock     |
+@       Numel   |Lvl  20|23| 8|27| 5|31|27|Dragon   |
+@       Numel   |Lvl  23|29|20| 1|28|20|21|Ground   |
+@       Numel   |Lvl  21|28|16|22| 4|22|28|Fighting |
+@       Numel   |Lvl  23|16|27| 8|14|30|19|Poison   |
+@       Camerupt|Lvl  35|26|21| 5|26| 2| 0|Flying   |
+
+Epic Fail
+
+Test data
