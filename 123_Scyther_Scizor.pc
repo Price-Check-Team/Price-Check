@@ -1,43 +1,43 @@
 Name|Lvl |HP|ATK|DEF|SP ATK|SP DEF|SPD|Hidden Power |Price
 
-Shiny 28+
+Shiny 28+ |250m 
 
 Shiny
-@ Shiny Scyther|Lvl  31|22|23|31|22|24|25|Ground   |
+@ Shiny Scyther|Lvl  31|22|23|31|22|24|25|Ground   |150m
 
 Non Shiny 28+
 
 Non Shiny 20+
-@       Scyther|Lvl  31|21|24|28|28|26|28|Fighting |
+@       Scyther|Lvl  31|21|24|28|28|26|28|Fighting |3m
 
 Non Shiny
-@       Scyther|Lvl  29|16|11|16|19|30| 4|Rock     |
-@       Scyther|Lvl  31|20|16| 2|17|26|11|Bug      |
-@       Scyther|Lvl  30|25|30|29|14| 2| 2|Flying   |
-@       Scyther|Lvl  30|18| 6|27|19| 2|13|Ghost    |
-@       Scyther|Lvl  31|19| 6|30|24|21| 7|Water    |
-@       Scyther|Lvl  27| 9|22|21| 2|21|30|Fire     |
-@       Scyther|Lvl  28|22|10|16|10|31| 4|Steel    |
-@       Scyther|Lvl  27|30|27|15|17|18|10|Bug      |
-@       Scyther|Lvl  27|21|27|25|27|16| 7|Steel    |
-@       Scyther|Lvl  27|15|28|22|20| 7|25|Water    |
-@       Scyther|Lvl  30|13|23|22|22| 4|24|Fighting |
-@       Scyther|Lvl  30|27|12|26|20|23|24|Steel    |
-@       Scyther|Lvl  30|21|11|14|28|17|22|Fire     |
-@       Scyther|Lvl  27|30|25|15|31|31| 9|Dragon   |
+@       Scyther|Lvl  29|16|11|16|19|30| 4|Rock     |20k
+@       Scyther|Lvl  31|20|16| 2|17|26|11|Bug      |10k
+@       Scyther|Lvl  30|25|30|29|14| 2| 2|Flying   |30k
+@       Scyther|Lvl  30|18| 6|27|19| 2|13|Ghost    |5k
+@       Scyther|Lvl  31|19| 6|30|24|21| 7|Water    |5k
+@       Scyther|Lvl  27| 9|22|21| 2|21|30|Fire     |100k
+@       Scyther|Lvl  28|22|10|16|10|31| 4|Steel    |20k
+@       Scyther|Lvl  27|30|27|15|17|18|10|Bug      |80k
+@       Scyther|Lvl  27|21|27|25|27|16| 7|Steel    |100k
+@       Scyther|Lvl  27|15|28|22|20| 7|25|Water    |50k
+@       Scyther|Lvl  30|13|23|22|22| 4|24|Fighting |75k
+@       Scyther|Lvl  30|27|12|26|20|23|24|Steel    |20k
+@       Scyther|Lvl  30|21|11|14|28|17|22|Fire     |20k
+@       Scyther|Lvl  27|30|25|15|31|31| 9|Dragon   |100k
 
-@       Scyther|Lvl  15|17|30|23|29|26|28|Bug      |
-@       Scyther|Lvl  30|31|28|26|21|14|31|Bug      |
-@       Scyther|Lvl  30|28|21|29|30|19|23|Grass    |
-@       Scyther|Lvl  30|30|27|29|11|28|21|Steel    |
-@       Scyther|Lvl  29|30|10|22|27|24|31|Bug      |
-@       Scyther|Lvl  29|26|31|23|20|23|16|Water    |
-@       Scyther|Lvl  29|13|17|28|15|16|18|Rock     |
-@       Scyther|Lvl  31|21|31|16|28|20|23|Poison   |
-@       Scyther|Lvl  30|30|27|23|31|11|16|Psychic  |
-@       Scyther|Lvl  29|21|21|30|30|23| 9|Grass    |
-@       Scyther|Lvl  31|30| 7|28|25|30|26|Rock     |
-@       Scyther|Lvl  31|20|28| 5|15|30|24|Rock     |
-@       Scyther|Lvl  30|25|24|23| 4|30|26|Flying   |
+@       Scyther|Lvl  15|17|30|23|29|26|28|Bug      |300k
+@       Scyther|Lvl  30|31|28|26|21|14|31|Bug      |600k
+@       Scyther|Lvl  30|28|21|29|30|19|23|Grass    |600k
+@       Scyther|Lvl  30|30|27|29|11|28|21|Steel    |3m
+@       Scyther|Lvl  29|30|10|22|27|24|31|Bug      |5k
+@       Scyther|Lvl  29|26|31|23|20|23|16|Water    |1.5m
+@       Scyther|Lvl  29|13|17|28|15|16|18|Rock     |5k
+@       Scyther|Lvl  31|21|31|16|28|20|23|Poison   |500k
+@       Scyther|Lvl  30|30|27|23|31|11|16|Psychic  |100k
+@       Scyther|Lvl  29|21|21|30|30|23| 9|Grass    |1.5m
+@       Scyther|Lvl  31|30| 7|28|25|30|26|Rock     |5k
+@       Scyther|Lvl  31|20|28| 5|15|30|24|Rock     |50k
+@       Scyther|Lvl  30|25|24|23| 4|30|26|Flying   |1.5m
 
 Epic Fail
