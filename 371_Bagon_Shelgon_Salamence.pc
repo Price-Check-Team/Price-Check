@@ -10,6 +10,8 @@ Non Shiny 28+
 Non Shiny 20+
 
 Non Shiny
+@       Salamence|Lvl 100|29|13|28|15|30|24|Rock     |
+
 @           Bagon|Lvl  39|28| 8| 0| 2|29|29|Water    |
 @           Bagon|Lvl  39|25|14|16|31|29|25|Ice      |
 @           Bagon|Lvl  36| 2|20| 2|23|28|23|Bug      |
