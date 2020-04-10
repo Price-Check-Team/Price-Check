@@ -24,7 +24,6 @@ Non Shiny
 @       Scyther|Lvl  30|13|23|22|22| 4|24|Fighting |75k
 @       Scyther|Lvl  30|27|12|26|20|23|24|Steel    |20k
 @       Scyther|Lvl  30|21|11|14|28|17|22|Fire     |20k
-@       Scyther|Lvl  27|30|25|15|31|31| 9|Dragon   |100k
 
 @       Scyther|Lvl  15|17|30|23|29|26|28|Bug      |300k
 @       Scyther|Lvl  30|31|28|26|21|14|31|Bug      |600k
@@ -37,7 +36,10 @@ Non Shiny
 @       Scyther|Lvl  30|30|27|23|31|11|16|Psychic  |100k
 @       Scyther|Lvl  29|21|21|30|30|23| 9|Grass    |1.5m
 @       Scyther|Lvl  31|30| 7|28|25|30|26|Rock     |5k
-@       Scyther|Lvl  31|20|28| 5|15|30|24|Rock     |50k
-@       Scyther|Lvl  30|25|24|23| 4|30|26|Flying   |1.5m
 
 Epic Fail
+
+Test data
+@       Scyther|Lvl  31|20|28| 5|15|30|24|Rock     |50k
+@       Scyther|Lvl  27|30|25|15|31|31| 9|Dragon   |100k
+@       Scyther|Lvl  30|25|24|23| 4|30|26|Flying   |1.5m
