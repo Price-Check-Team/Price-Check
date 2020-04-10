@@ -9,8 +9,11 @@ Shiny
 Non Shiny 28+
 
 Non Shiny 20+
+@       Skarmory|Lvl 100|31|26|31|23|21|22|Psychic  |
 
 Non Shiny
+@       Skarmory|Lvl   1|26|30|28|10|25|21|Water    |
+
 @       Skarmory|Lvl   1|29|29|28|15|19|21|Dragon   |
 @       Skarmory|Lvl   1|30|19|25|24|15|19|Grass    |
 @       Skarmory|Lvl   1|30|23|22|17|27|12|Electric |
