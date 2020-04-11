@@ -6,57 +6,57 @@ Shiny
 
 Non Shiny 28+
 
-Non Shiny 20+
+Non Shiny 20+|+15m
 
 Non Shiny
-@       Chansey|Lvl  30|30|16|29|22|28|30|Fighting |
-@       Chansey|Lvl  29|14|29|23|30|26|13|Ground   |
-@       Chansey|Lvl  30|11|27|26|25|13|27|Dragon   |
-@       Chansey|Lvl  30|30|10|13|22|27|26|Fire     |
-@       Chansey|Lvl  30|20|11|23|24|26|23|Ground   |
-@       Chansey|Lvl  29|21|14|19|30|11|23|Grass    |
-@       Chansey|Lvl  30|18|23|29|25| 0|24|Bug      |
-@       Chansey|Lvl 100|20|12|23| 5|25|22|Psychic  |
-@       Chansey|Lvl  30|14|27| 2|28| 8| 5|Poison   |
-@       Chansey|Lvl  29| 5|11|20|27|12|28|Rock     |
-@       Chansey|Lvl  29| 8|28| 3|10|17|18|Fire     |
-@       Chansey|Lvl  30|20|14| 1|11| 0|27|Ghost    |
-@       Chansey|Lvl  30| 4|24|26| 4|28| 5|Flying   |
+@       Chansey|Lvl  30|30|16|29|22|28|30|Fighting |5m
+@       Chansey|Lvl  29|14|29|23|30|26|13|Ground   |500k
+@       Chansey|Lvl  30|11|27|26|25|13|27|Dragon   |50k
+@       Chansey|Lvl  30|30|10|13|22|27|26|Fire     |50k
+@       Chansey|Lvl  30|20|11|23|24|26|23|Ground   |3m
+@       Chansey|Lvl  29|21|14|19|30|11|23|Grass    |10k
+@       Chansey|Lvl  30|18|23|29|25| 0|24|Bug      |10k
+@       Chansey|Lvl 100|20|12|23| 5|25|22|Psychic  |1m
+@       Chansey|Lvl  30|14|27| 2|28| 8| 5|Poison   |10k
+@       Chansey|Lvl  29| 5|11|20|27|12|28|Rock     |10k
+@       Chansey|Lvl  29| 8|28| 3|10|17|18|Fire     |5k
+@       Chansey|Lvl  30|20|14| 1|11| 0|27|Ghost    |5k
+@       Chansey|Lvl  30| 4|24|26| 4|28| 5|Flying   |50k
 
-@       Chansey|Lvl  30|24|12|30|31|16|29|Bug      |
-@       Chansey|Lvl  30|21|25| 1|24|27|26|Water    |
-@       Chansey|Lvl  31| 6| 4|29| 0|13|13|Grass    |
-@       Chansey|Lvl  31|24|28|22| 8|17|14|Steel    |
-@       Chansey|Lvl  30| 2| 5|15| 6|19|23|Grass    |
-@       Chansey|Lvl  29|24|11|19|26|16|12|Flying   |
-@       Chansey|Lvl  29| 2|13|13|24|20|28|Flying   |
-@       Chansey|Lvl  29|30|30|11|31|20|22|Rock     |
-@       Chansey|Lvl  31| 8|15| 4|19|15| 2|Electric |
-@       Chansey|Lvl  30|23|20|14| 3|23|20|Electric |
-@       Chansey|Lvl  31|15|18|13|26| 2| 5|Ground   |
+@       Chansey|Lvl  30|24|12|30|31|16|29|Bug      |500k
+@       Chansey|Lvl  30|21|25| 1|24|27|26|Water    |10k
+@       Chansey|Lvl  31| 6| 4|29| 0|13|13|Grass    |5k
+@       Chansey|Lvl  31|24|28|22| 8|17|14|Steel    |300k
+@       Chansey|Lvl  30| 2| 5|15| 6|19|23|Grass    |5k
+@       Chansey|Lvl  29|24|11|19|26|16|12|Flying   |10k
+@       Chansey|Lvl  29| 2|13|13|24|20|28|Flying   |10k
+@       Chansey|Lvl  29|30|30|11|31|20|22|Rock     |20k
+@       Chansey|Lvl  31| 8|15| 4|19|15| 2|Electric |10k
+@       Chansey|Lvl  30|23|20|14| 3|23|20|Electric |50k
+@       Chansey|Lvl  31|15|18|13|26| 2| 5|Ground   |10k
 
-@       Chansey|Lvl  29|28| 8|13| 0| 2|14|Fighting |
-@       Chansey|Lvl  31|13|16|14| 9| 2|23|Bug      |
-@       Chansey|Lvl  30| 8|25|23|17|26| 0|Bug      |
-@       Chansey|Lvl  29|15|19|18|18|26|17|Poison   |
-@       Chansey|Lvl  30|26| 4| 2|23|26|24|Ground   |
-@       Chansey|Lvl  31|11|31|31|14|26|29|Ground   |
-@       Chansey|Lvl  30|22| 0|12|20|21|30|Steel    |
-@       Chansey|Lvl  31|15|16| 8|26| 7|17|Water    |
-@       Chansey|Lvl  29|26|24|15| 7|30|16|Rock     |
-@       Chansey|Lvl  31|20| 8|12|22| 7|13|Water    |
-@       Chansey|Lvl  30| 9|24| 0| 9| 6|23|Bug      |
+@       Chansey|Lvl  29|28| 8|13| 0| 2|14|Fighting |10k
+@       Chansey|Lvl  31|13|16|14| 9| 2|23|Bug      |10k
+@       Chansey|Lvl  30| 8|25|23|17|26| 0|Bug      |50k
+@       Chansey|Lvl  29|15|19|18|18|26|17|Poison   |10k
+@       Chansey|Lvl  30|26| 4| 2|23|26|24|Ground   |10k
+@       Chansey|Lvl  31|11|31|31|14|26|29|Ground   |500k
+@       Chansey|Lvl  30|22| 0|12|20|21|30|Steel    |10k
+@       Chansey|Lvl  31|15|16| 8|26| 7|17|Water    |10k
+@       Chansey|Lvl  29|26|24|15| 7|30|16|Rock     |50k
+@       Chansey|Lvl  31|20| 8|12|22| 7|13|Water    |10k
+@       Chansey|Lvl  30| 9|24| 0| 9| 6|23|Bug      |5k
 
-@       Chansey|Lvl  31|15| 0|15| 3|10| 0|Bug      |
-@       Chansey|Lvl  30|12|23|28| 8|13| 9|Grass    |
-@       Chansey|Lvl  22|15|26|14|10|11|29|Water    |
-@       Chansey|Lvl  26| 5|20|28|21|23|25|Ice      |
-@       Chansey|Lvl  31|23|26|16| 3|16|22|Rock     |
-@       Chansey|Lvl  31|24| 6|22|27|21|20|Electric |
-@       Chansey|Lvl  31|28|21|30|10|28| 1|Poison   |
-@       Chansey|Lvl  31|25|20|21|20|12| 6|Flying   |
-@       Chansey|Lvl  31|30|24|31|31|21| 2|Psychic  |
-@       Chansey|Lvl  30|28| 7|31| 6|26|29|Ground   |
+@       Chansey|Lvl  31|15| 0|15| 3|10| 0|Bug      |5k
+@       Chansey|Lvl  30|12|23|28| 8|13| 9|Grass    |40k
+@       Chansey|Lvl  22|15|26|14|10|11|29|Water    |10k
+@       Chansey|Lvl  26| 5|20|28|21|23|25|Ice      |80k
+@       Chansey|Lvl  31|23|26|16| 3|16|22|Rock     |80k
+@       Chansey|Lvl  31|24| 6|22|27|21|20|Electric |3m
+@       Chansey|Lvl  31|28|21|30|10|28| 1|Poison   |3m
+@       Chansey|Lvl  31|25|20|21|20|12| 6|Flying   |100k
+@       Chansey|Lvl  31|30|24|31|31|21| 2|Psychic  |3m
+@       Chansey|Lvl  30|28| 7|31| 6|26|29|Ground   |3m
 
 Epic Fail
 
