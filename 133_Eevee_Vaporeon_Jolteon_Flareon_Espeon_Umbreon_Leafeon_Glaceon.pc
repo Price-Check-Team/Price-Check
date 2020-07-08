@@ -37,3 +37,10 @@ Non Shiny
 @        Flareon|Lvl  28|23|29|16|11| 5|10|Psychic  |750k
 
 Epic Fail
+
+Additional Information
+
+Jolteon - SP Atk / Speed+ = HP ice / grass
+Espeon - SP Atk / Speed = HP fire
+Umbreon - 
+Vaporeon - 
