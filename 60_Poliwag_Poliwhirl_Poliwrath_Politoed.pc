@@ -14,10 +14,7 @@ Shiny
 
 @ Shiny   Poliwag|Lvl  15|29|28|23|26|22|22|Flying   |150k
 @ Shiny   Poliwag|Lvl  50|27|23|28|21|25|30|Psychic  |250k
-@ Shiny   Poliwag|Lvl  11|29|29|24|21|20|20|Rock     |125k
 @ Shiny   Poliwag|Lvl  50|29|22|25|26|29|21|Grass    |125k
-@ Shiny   Poliwag|Lvl  52|30|29|24|26|29|29|Grass    |250k
-@ Shiny   Poliwag|Lvl  52|26|31|29|21|30|26|Bug      |150k
 @ Shiny   Poliwag|Lvl  31|30|31|29|22|25|21|Grass    |100k
 
 Non Shiny 28+
@@ -28,3 +25,10 @@ Non Shiny 20+
 Non Shiny
 
 Epic Fail
+
+Test data
+@ Shiny   Poliwag|Lvl  11|29|29|24|21|20|20|Rock     |125k
+@ Shiny   Poliwag|Lvl  52|26|31|29|21|30|26|Bug      |150k
+@ Shiny   Poliwag|Lvl  52|30|29|24|26|29|29|Grass    |250k
+
+Additional Information
