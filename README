@@ -27,8 +27,9 @@ Price check rules:
            This allows to support a price placed by someone else,
            if more then one price is present the one with more + will be taken in consideration
 	   
-        4. The hidden power must be taken into consideration if and only if it is beneficial for the pokémon
-           (Add * after the hidden power to show that it is taken in consideration while pricing)
+        4. The hidden power of a pokemon will not influence its price,
+	   because in the current version an addition relating to the hidden power
+	   is added if and only if the pokemon is a good user hidden power and that it has favorable ivs.
            
         5. If the pokémon has no value you can just remove the @ instead of putting a price 0
            But that doesn't mean that cheap pokémons should be ignored
@@ -44,4 +45,8 @@ Additional informations:
                 Epic Fail
 		Test data
 		
-        -> If you have any additional suggestion let me know
+		You will be able sometimes to find the part "Additional Information"
+		that is used to describe other dynamics that can interfere in the price,
+		it can be combinations of iv's and hidden power, evolution specialties, move tutors or tm's.
+		
+        -> If you have any additional suggestion let me know.
