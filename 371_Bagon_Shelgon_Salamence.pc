@@ -19,7 +19,6 @@ Non Shiny
 @       Salamence|Lvl 100|28|23|20|21| 5|30|Electric |
 @       Salamence|Lvl 100|10|12| 0| 8|20|25|Flying   |
 
-@           Bagon|Lvl  36|10|12| 0| 8|20|25|Flying   |500k
 @           Bagon|Lvl  36|26|27|19| 0|18| 1|Ground   |700k
 @           Bagon|Lvl  56| 5|28|11|26|27|25|Grass    |1m
 @           Bagon|Lvl  39|15|13| 2|21| 2|11|Ghost    |300k
@@ -28,11 +27,16 @@ Non Shiny
 @           Bagon|Lvl  37| 2|21|31|21|16|25|Steel    |2m
 @           Bagon|Lvl  37|22|14|10|18| 5|22|Steel    |500k
 @           Bagon|Lvl  39|15|13| 2|21| 2|11|Ghost    |200k
-@           Bagon|Lvl  36|26|27|19| 0|18| 1|Ground   |100k
 @           Bagon|Lvl  38| 0|11| 4|24|18| 8|Fighting |100k
 @       Salamence|Lvl 100|30|13|19|25|10| 1|Steel    |600k
 @       Salamence|Lvl 100|28|23|20|21| 5|30|Electric |15m
-@       Salamence|Lvl 100|20|10|29|22|14|12|Fighting |1m
 @       Salamence|Lvl 100|28|30|29|26|16| 8|Fighting |2.5m
 
 Epic Fail
+
+Test data
+@           Bagon|Lvl  36|26|27|19| 0|18| 1|Ground   |100k
+@           Bagon|Lvl  36|10|12| 0| 8|20|25|Flying   |500k
+@       Salamence|Lvl 100|20|10|29|22|14|12|Fighting |1m
+
+Additional Information
